@@ -1,7 +1,7 @@
 # dearie-work-log
 
 
-#### 15th Thur, Nov 2018
+#### *15th Thur, Nov 2018*
 
 - [ ] Create git work log
 - [ ] https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7 : Host your expo apps from git pages
