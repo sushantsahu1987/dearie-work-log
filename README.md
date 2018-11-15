@@ -3,9 +3,9 @@
 
 #### 15th Thur, Nov 2018
 
-- [x] Create git work log
-- [x] https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7 : Host your expo apps from git pages
-- [x] Explore git pages
+- [ ] Create git work log
+- [ ] https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7 : Host your expo apps from git pages
+- [ ] Explore git pages
 
 
  
