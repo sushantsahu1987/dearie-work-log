@@ -14,8 +14,8 @@
 
 #### *17th Sat, Nov 2018*
 
-- [x] Work on developing backend for dearie work log
-- [x] study Vue.js
+- [ ] Work on developing backend for dearie work log
+- [ ] study Vue.js
 
 #### *16th Fri, Nov 2018*
 
