@@ -77,3 +77,6 @@ typings/
 
 # Prod Env
 prod.env
+
+# Prod Certificate
+prod_certificate.key

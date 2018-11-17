@@ -18,11 +18,11 @@ const connect = (url) => {
     })
 }
 
-console.log(process.env.MONGO_URL);
 const MONGO_PWD = process.env.MONGO_PWD;
 const MONGO_USER = process.env.MONGO_USER; 
+
 let mongourl = process.env.MONGO_URL;
 mongourl = mongourl.replace('MONGO_USER', MONGO_USER);
 mongourl = mongourl.replace('MONGO_PWD', MONGO_PWD);
-console.log(mongourl);
+
 connect(mongourl);
