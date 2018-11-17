@@ -1,7 +1,7 @@
 const Account = require('../db/accounts');
 const {save_error} = require('./constants')
 const token = require('../utils/token');
-const pwdutils = require('../utils/pwdutils');
+const pwdutils = require('../utils/devpwdutils');
 
 const accountcontroller = {};
 
