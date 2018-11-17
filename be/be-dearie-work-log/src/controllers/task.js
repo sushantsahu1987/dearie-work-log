@@ -1,22 +1,27 @@
 const Task = require('../db/task');
 const dbcontroller = require('../db/dbcontroller');
+const {save_success, save_error, 
+    fetch_error, fetch_success
+}  = require('./constants');
 
 const taskcontroller = {};
 
 taskcontroller.addItem = async (req, resp) => {
-    console.log('task controller add : post ')
-    console.log(req.body);
 
-    const result = await dbcontroller.savetasks(req.body.task);
+    const task = new Task({
+        task: req.body.task });
+
+    const result = await dbcontroller.save(
+        task,
+        save_success.msg,
+        save_error.msg);
+
     const payload = {};
-
     if(result.err) {
-        payload.error = result.err
-        resp.send({
-                msg: result.err
-            });
+        payload.error = result.err;
     }else {
-        payload.data = result.data;
+        payload.result = req.body.task;
+        payload.success = result.success;
     }
 
     console.log(payload)
@@ -24,20 +29,25 @@ taskcontroller.addItem = async (req, resp) => {
     
 }
 
-taskcontroller.getItems = (req, resp) => {
-    Task.find({
-    }, (err, docs) => {
-        if (err) {
-            console.log(`task get error : ${err}`);
-            resp.send({
-                msg: "failed to fetch tasks",
-            });
-        }
-        console.log(`${docs}`);
-        resp.send({
-            msg: docs,
-        });
-    })   
+taskcontroller.getItems = async (req, resp) => {
+
+    const result = await dbcontroller.find(
+        Task,
+        {},
+        fetch_success.msg,
+        fetch_error.msg);
+
+    const payload = {};
+    if(result.err) {
+        payload.error = result.err;
+    }else {
+        payload.data = result.data;
+        payload.success = result.success;
+    }
+
+    console.log(payload)
+    resp.send(payload);
+
 }
 
 module.exports = taskcontroller;

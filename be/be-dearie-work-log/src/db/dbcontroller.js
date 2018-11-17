@@ -5,12 +5,15 @@ const dbcontroller = {}
 dbcontroller.save = (model,success, error) => {
     return new Promise((resolve, reject) => {
         model.save(err => {
+            const result = {};
             if (err) {
                 console.log(`item error : ${err}`);
-                reject(error);
+                result.error = error;
+                reject(result);
             }
-            resolve(success);
             console.log("item added successfully");
+            result.success = success;
+            resolve(result);            
         });
     });
 }
@@ -18,35 +21,18 @@ dbcontroller.save = (model,success, error) => {
 dbcontroller.find = (model, options,success, error) => {
     return new Promise((resolve, reject) => {
         model.find(options, (err, docs) => {
+            const result = {};
             if (err) {
                 console.log(`task get error : ${err}`);
-                reject(error);
+                result.error = error;
+                reject(result);
             }
             console.log(`${docs}`);
-            success.data = docs;
-            resolve(success);
+            result.data = docs;
+            result.success = success;
+            resolve(result);
         })  
 
-    })
-}
-
-dbcontroller.savetasks = (todo) => {
-    return new Promise((resolve, reject) => {
-        const task = new Task({
-            task: todo
-        });
-        task.save(err => {
-            if (err) {
-                console.log(`item error : ${err}`);
-                reject({
-                    msg: "failed to add item",
-                });
-            }
-            resolve({
-                msg: "item added successfully"
-            });
-            console.log("item added successfully");
-        });
     })
 }
 

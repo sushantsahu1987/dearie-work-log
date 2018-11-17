@@ -3,7 +3,7 @@ const bcrypt = require('bcryptjs');
 const SALT_ROUNDS = 10;
 const pwdutils = {};
 
-pwdutils.hash = (text) => {
+pwdutils.hash = (key, text) => {
     const salt = bcrypt.genSaltSync(SALT_ROUNDS);
     return bcrypt.hashSync(text, salt);
 }
