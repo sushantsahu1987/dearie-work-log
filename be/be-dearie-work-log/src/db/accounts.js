@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const timestamp = require('mongoose-timestamp');
 
 const AccountSchema = mongoose.Schema({
-    name: {
+    email: {
         type: String,
         required: true,
         trim: true
@@ -12,11 +12,16 @@ const AccountSchema = mongoose.Schema({
         required: true,
         trim: true
     },
-    salt: {
+    salt1: {
         type: String,
         required: true,
         trim: true
-    }
+    },
+    salt2: {
+        type: String,
+        required: true,
+        trim: true
+    },
 });
 
 AccountSchema.plugin(timestamp);
