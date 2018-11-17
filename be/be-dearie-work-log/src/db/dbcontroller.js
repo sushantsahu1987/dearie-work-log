@@ -10,10 +10,12 @@ dbcontroller.save = (model,success, error) => {
                 console.log(`item error : ${err}`);
                 result.error = error;
                 reject(result);
+            }else {
+                console.log("item added succlessfully");
+                result.success = success;
+                resolve(result);            
             }
-            console.log("item added successfully");
-            result.success = success;
-            resolve(result);            
+            
         });
     });
 }

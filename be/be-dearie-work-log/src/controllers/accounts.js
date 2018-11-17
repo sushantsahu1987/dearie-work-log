@@ -1,13 +1,14 @@
 const path = require('path');
 
 const Account = require('../db/accounts');
-const {save_error} = require('./constants')
+const {
+    register_success,
+    register_error,
+    register_duplicate
+} = require('./constants');
 const token = require('../utils/token');
-
-
-// const FILE = path.join()
-
-// const pwdutils = require('../utils/devpwdutils');
+const pwdutils = require('../utils/prod.pwdutils');
+const dbccontroller = require('../db/dbcontroller');
 
 const accountcontroller = {};
 
@@ -30,32 +31,47 @@ accountcontroller.login = (req, resp) => {
     })
 }
 
-accountcontroller.register = (req, resp) => {
+accountcontroller.register = async (req, resp) => {
     console.log(req.body);
-    const doc = new Account({
-        name: req.body.name,
-        password: req.body.password
+
+    const {
+        seed1,
+        seed2,
+        hash
+    } = pwdutils.hash(req.body.email, req.body.password)
+
+    const acc = new Account({
+        email: req.body.email,
+        password: hash,
+        salt1: seed1,
+        salt2: seed2
     });
 
-    const hash = pwdutils.hash(user.password);
-    console.log(`hash ${hash}`);
+    const payload = {}
+    try {
+        const result = await dbccontroller.save(acc, register_success.msg, register_error.msg);
+        console.log(result);
+        payload.result = "token_generated";
+        payload.success = result.success;
+    }catch(error) {
+        payload.error = error.err;
+    }
+    
+    console.log(payload)
+    resp.send(payload);
 
-    const verify = pwdutils.verifyHash(user.password, hash);
-    console.log(`verify ${verify}`);
-    console.log(user);
-
-    doc.save(err => {
-        if (err) {
-            console.log(`register error : ${err}`);
-            resp.send({
-                msg: "register error",
-            });
-        }
-        resp.send({
-            msg: "registered successfully",
-        });
-        console.log("registered successfully");
-    })
+    // doc.save(err => {
+    //     if (err) {
+    //         console.log(`register error : ${err}`);
+    //         resp.send({
+    //             msg: "register error",
+    //         });
+    //     }
+    //     resp.send({
+    //         msg: "registered successfully",
+    //     });
+    //     console.log("registered successfully");
+    // })
 }
 
 accountcontroller.logout = (req, resp) => {
