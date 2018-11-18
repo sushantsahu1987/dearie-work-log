@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start:dev": "DEV=DEBUG PORT=3000 nodemon -r ./config.js .",
-    "start:prod": "DEV=PROD PORT=3000 nodemon -r ./config.js ."
+    "start:prod": "DEV=PROD PORT=3000 nodemon -r ./config.js .",
+    "start:faker": "DEV=PROD PORT=3000 node -r ./config.js ./src/scripts/faker.spec.js"
   },
   "keywords": [
     "express",

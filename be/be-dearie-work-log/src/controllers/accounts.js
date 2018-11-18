@@ -60,18 +60,6 @@ accountcontroller.register = async (req, resp) => {
     console.log(payload)
     resp.send(payload);
 
-    // doc.save(err => {
-    //     if (err) {
-    //         console.log(`register error : ${err}`);
-    //         resp.send({
-    //             msg: "register error",
-    //         });
-    //     }
-    //     resp.send({
-    //         msg: "registered successfully",
-    //     });
-    //     console.log("registered successfully");
-    // })
 }
 
 accountcontroller.logout = (req, resp) => {
