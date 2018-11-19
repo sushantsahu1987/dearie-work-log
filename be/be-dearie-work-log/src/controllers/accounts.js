@@ -37,6 +37,7 @@ accountcontroller.login = async (req, resp) => {
 
     } catch (ex) {
         console.log(ex);
+        payload.result = "fail";
         payload.error = ex.err;
     }
 
@@ -89,6 +90,7 @@ accountcontroller.register = async (req, resp) => {
 
     } catch (error) {
         console.log(error);
+        payload.result = "fail";
         payload.error = error.error;
     }
 
