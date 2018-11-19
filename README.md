@@ -9,6 +9,11 @@
 - [ ] Singleton Pattern
 - [ ] Observer Pattern
 
+#### *20th Tue, Nov 2018*
+
+- [ ] Work on developing backend for dearie work log
+- [ ] Study Vue.js
+
 #### *19th Mon, Nov 2018*
 
 - [x] Work on developing backend for dearie work log
