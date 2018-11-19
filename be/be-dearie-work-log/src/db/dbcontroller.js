@@ -1,5 +1,3 @@
-const Task = require('./task');
-
 const dbcontroller = {}
 
 dbcontroller.save = (model,success, error) => {
@@ -15,7 +13,6 @@ dbcontroller.save = (model,success, error) => {
                 result.success = success;
                 resolve(result);            
             }
-            
         });
     });
 }
@@ -25,14 +22,17 @@ dbcontroller.find = (model, options,success, error) => {
         model.find(options, (err, docs) => {
             const result = {};
             if (err) {
-                console.log(`task get error : ${err}`);
+                console.log(`find error : ${err}`);
+                console.log(`error : ${error}`);
                 result.error = error;
                 reject(result);
-            }
-            console.log(`${docs}`);
-            result.data = docs;
-            result.success = success;
-            resolve(result);
+            }else {
+                console.log('success');
+                console.log(docs);
+                result.data = docs;
+                result.success = success;
+                resolve(result);
+            }            
         })  
 
     })

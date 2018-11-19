@@ -15,15 +15,18 @@ const {
     save_error
 } = require('../controllers/constants');
 
+const USER_COUNT = 15;
+const TASK_MAX_COUNT = 20;
+
 const test = async () => {
 
     const users = [];
     const tasks = [];
 
-    _.times(5, () => {
+    _.times(USER_COUNT, () => {
         const uuid = uuidv4();
-        const email = faker.internet.email();
-        const password = faker.internet.password();
+        const email = faker.internet.email().toLowerCase();
+        const password = 'asdef';
         const salt1 = uuidv4();
         const salt2 = uuidv4();
 
@@ -37,7 +40,7 @@ const test = async () => {
 
         const usercontroller = dbcontroller.save(acc, register_success.msg, register_error.msg);
         users.push(usercontroller);
-        const n = Math.floor((Math.random() * 10) + 3);
+        const n = Math.floor((Math.random() * TASK_MAX_COUNT) + 5);
         _.times(n, () => {
             const id = uuidv4();
             const words = faker.random.words();
@@ -48,7 +51,6 @@ const test = async () => {
             })
             const taskcontroller = dbcontroller.save(task, save_success.msg, save_error.msg);
             tasks.push(taskcontroller);
-
         });
 
     });

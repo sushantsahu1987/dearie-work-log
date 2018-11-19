@@ -4,31 +4,44 @@ const Account = require('../db/accounts');
 const {
     register_success,
     register_error,
+    fetch_error,
+    fetch_success,
     register_duplicate
 } = require('./constants');
 const token = require('../utils/token');
 const pwdutils = require('../utils/prod.pwdutils');
-const dbccontroller = require('../db/dbcontroller');
+const dbcontroller = require('../db/dbcontroller');
 
 const accountcontroller = {};
 
-accountcontroller.login = (req, resp) => {
-    console.log(req.body);
-    console.log(save_error);
-    Account.find({
-        name: req.body.name
-    }, (err, docs) => {
-        if (err) {
-            console.log(`login error : ${err}`);
-            resp.send({
-                msg: "login successfully",
-            });
-        }
-        console.log(`${docs}`);
-        resp.send({
-            msg: "login successfully",
-        });
-    })
+accountcontroller.login = async (req, resp) => {
+
+    console.log("login request");
+    console.log(req.body.email);
+
+    const payload = {}
+
+    try {
+        const result = await dbcontroller.find(
+            Account, {
+                "email": req.body.email,
+                "password":req.body.password
+            },
+            fetch_success.msg,
+            fetch_error.msg);
+        
+        console.log(`result login : ${result}`);
+        payload.data = result.data;
+        payload.success = result.success;
+
+    } catch (ex) {
+        console.log(ex);
+        payload.error = ex.err;
+    }
+
+    console.log(payload)
+    resp.send(payload);
+
 }
 
 accountcontroller.register = async (req, resp) => {
@@ -53,10 +66,10 @@ accountcontroller.register = async (req, resp) => {
         console.log(result);
         payload.result = "token_generated";
         payload.success = result.success;
-    }catch(error) {
+    } catch (error) {
         payload.error = error.err;
     }
-    
+
     console.log(payload)
     resp.send(payload);
 
