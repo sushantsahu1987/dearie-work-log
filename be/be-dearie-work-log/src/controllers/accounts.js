@@ -19,9 +19,7 @@ accountcontroller.login = async (req, resp) => {
 
     console.log("login request");
     console.log(req.body.email);
-
     const payload = {}
-
     try {
         const result = await dbcontroller.find(
             Account, {
@@ -29,10 +27,13 @@ accountcontroller.login = async (req, resp) => {
             },
             fetch_success.msg,
             fetch_error.msg);
-
         console.log(`result login : ${result}`);
         payload.data = result.data;
         payload.success = result.success;
+        const user = {
+            "email": req.body.email
+        };
+        payload.token = token.generateToken(user);
 
     } catch (ex) {
         console.log(ex);
@@ -76,7 +77,6 @@ accountcontroller.register = async (req, resp) => {
                 salt1: seed1,
                 salt2: seed2
             });
-
             const result = await dbcontroller.save(acc, register_success.msg, register_error.msg);
             console.log(result);
             payload.result = "ok";
