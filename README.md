@@ -11,13 +11,13 @@
 
 #### *19th Mon, Nov 2018*
 
-- [ ] Work on developing backend for dearie work log
-- [ ] Study Vue.js
+- [x] Work on developing backend for dearie work log
+- [x] Study Vue.js
 
 #### *18th Sun, Nov 2018*
 
 - [x] Work on developing backend for dearie work log
-- [ ] Study Vue.js
+- [x] Study Vue.js
 
 #### *17th Sat, Nov 2018*
 
