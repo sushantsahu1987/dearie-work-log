@@ -2,6 +2,7 @@ const mongoose = require('mongoose');
 const app = require('./src/app');
 const Account = require('./src/db/accounts');
 const Task = require('./src/db/task');
+const utils = require('./src/utils/token');
 
 const connect = (url) => {
     mongoose.connect(url, {
@@ -24,5 +25,6 @@ const MONGO_USER = process.env.MONGO_USER;
 let mongourl = process.env.MONGO_URL;
 mongourl = mongourl.replace('MONGO_USER', MONGO_USER);
 mongourl = mongourl.replace('MONGO_PWD', MONGO_PWD);
+utils.init();
 
 connect(mongourl);

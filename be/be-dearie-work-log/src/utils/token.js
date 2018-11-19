@@ -8,7 +8,7 @@ const readcertificate = (path) => {
 }
 
 token.init = () => {
-    token.private = readcertificate('/certificate/private.key');
+    token.private = readcertificate('/certificate/prod_certificate.key');
 }
 
 token.generateToken = (user) => {

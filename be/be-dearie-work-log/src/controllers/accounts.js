@@ -1,4 +1,5 @@
 const path = require('path');
+const uuidv4 = require('uuid/v4');
 
 const Account = require('../db/accounts');
 const {
@@ -24,12 +25,11 @@ accountcontroller.login = async (req, resp) => {
     try {
         const result = await dbcontroller.find(
             Account, {
-                "email": req.body.email,
-                "password":req.body.password
+                "email": req.body.email
             },
             fetch_success.msg,
             fetch_error.msg);
-        
+
         console.log(`result login : ${result}`);
         payload.data = result.data;
         payload.success = result.success;
@@ -53,21 +53,43 @@ accountcontroller.register = async (req, resp) => {
         hash
     } = pwdutils.hash(req.body.email, req.body.password)
 
-    const acc = new Account({
-        email: req.body.email,
-        password: hash,
-        salt1: seed1,
-        salt2: seed2
-    });
-
     const payload = {}
     try {
-        const result = await dbccontroller.save(acc, register_success.msg, register_error.msg);
-        console.log(result);
-        payload.result = "token_generated";
-        payload.success = result.success;
+
+        const searchresult = await dbcontroller.find(
+            Account, {
+                "email": req.body.email
+            },
+            register_duplicate.msg,
+            fetch_error.msg);
+
+        console.log('register');
+        console.log(searchresult);
+        if (searchresult && searchresult.data && searchresult.data.length > 0) {
+            payload.result = "ok";
+            payload.error = register_duplicate.msg;
+        } else {
+            const acc = new Account({
+                uuid: uuidv4(),
+                email: req.body.email,
+                password: hash,
+                salt1: seed1,
+                salt2: seed2
+            });
+
+            const result = await dbcontroller.save(acc, register_success.msg, register_error.msg);
+            console.log(result);
+            payload.result = "ok";
+            payload.success = result.success;
+            const user = {
+                "email": req.body.email
+            };
+            payload.token = token.generateToken(user);
+        }
+
     } catch (error) {
-        payload.error = error.err;
+        console.log(error);
+        payload.error = error.error;
     }
 
     console.log(payload)
