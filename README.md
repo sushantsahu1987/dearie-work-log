@@ -10,7 +10,7 @@
 - [ ] Observer Pattern
 
 
-#### *21th Tue, Nov 2018*
+#### *21th Wed, Nov 2018*
 
 - [ ] Work on developing backend for dearie work log
 - [ ] Graphql prototype
