@@ -9,20 +9,26 @@
 - [ ] Singleton Pattern
 - [ ] Observer Pattern
 
-
-#### *21th Wed, Nov 2018*
+#### *22nd Thu, Nov 2018*
 
 - [ ] Work on developing backend for dearie work log
 - [ ] Graphql prototype
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
-#### *20th Tue, Nov 2018*
+#### *21th Wed, Nov 2018*
 
 - [ ] Work on developing backend for dearie work log
 - [x] Graphql prototype
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
+
+#### *20th Tue, Nov 2018*
+
+- [x] Work on developing backend for dearie work log
+- [x] Graphql prototype
+- [ ] Work on integrating graphql with dearie work log
+- [x] Study Vue.js
 
 #### *20th Tue, Nov 2018*
 
