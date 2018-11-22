@@ -8,12 +8,12 @@
 - [ ] Module Pattern
 - [ ] Singleton Pattern
 - [ ] Observer Pattern
-
-#### *22nd Thu, Nov 2018*
-
 - [ ] Work on developing backend for dearie work log
 - [ ] Graphql prototype
 - [ ] Work on integrating graphql with dearie work log
+
+#### *22nd Thu, Nov 2018*
+- [ ] Study D3 Visualizations
 - [ ] Study Vue.js
 
 #### *21th Wed, Nov 2018*
