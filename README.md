@@ -16,6 +16,7 @@
 
 #### *22rd Fri, Nov 2018*
 - [ ] Study D3 Visualizations
+- [ ] Bar Charts
 
 #### *22nd Thu, Nov 2018*
 - [x] Study D3 Visualizations
