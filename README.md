@@ -13,10 +13,17 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+#### *24th Sun, Nov 2018*
+- [ ] Study D3 Visualizations
+- [ ] Bar Charts animation / Scatter plots
+
+#### *23rd Sat, Nov 2018*
+- [x] Take mother-in-law to hospital for catract operation
+- [x] No programming day
 
 #### *22rd Fri, Nov 2018*
-- [ ] Study D3 Visualizations
-- [ ] Bar Charts
+- [x] Study D3 Visualizations
+- [x] Bar Charts
 
 #### *22nd Thu, Nov 2018*
 - [x] Study D3 Visualizations
