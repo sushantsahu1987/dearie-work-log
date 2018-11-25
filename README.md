@@ -16,6 +16,7 @@
 #### *24th Sun, Nov 2018*
 - [ ] Study D3 Visualizations
 - [ ] Bar Charts animation / Scatter plots
+- [ ] Study dashboard designing
 
 #### *23rd Sat, Nov 2018*
 - [x] Take mother-in-law to hospital for catract operation
