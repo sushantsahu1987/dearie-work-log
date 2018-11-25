@@ -82,4 +82,4 @@ prod.env
 prod_certificate.key
 
 # Prod util fn
-prod.pwdutils
+prod.pwdutils.js
