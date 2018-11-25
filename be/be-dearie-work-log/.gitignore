@@ -80,3 +80,6 @@ prod.env
 
 # Prod Certificate
 prod_certificate.key
+
+# Prod util fn
+prod.pwdutils
