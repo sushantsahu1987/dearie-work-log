@@ -14,7 +14,7 @@
 - [ ] Study Vue.js
 
 
-#### *24th Tue, Nov 2018*
+#### *25th Tue, Nov 2018*
 - [ ] Study D3 Visualizations
 - [ ] Bar Charts animation / Scatter plots
 - [ ] Study dashboard designing
