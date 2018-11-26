@@ -13,10 +13,19 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
-#### *24th Sun, Nov 2018*
+
+#### *24th Tue, Nov 2018*
 - [ ] Study D3 Visualizations
 - [ ] Bar Charts animation / Scatter plots
 - [ ] Study dashboard designing
+
+#### *24th Mon, Nov 2018*
+- [x] Work on password manager app
+- [ ] Work on post api's for graphql
+
+#### *24th Sun, Nov 2018*
+- [x] Work on password manager app
+- [x] Work on 2 factor authentication
 
 #### *23rd Sat, Nov 2018*
 - [x] Take mother-in-law to hospital for catract operation
