@@ -13,10 +13,14 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+#### *26th Wed, Nov 2018*
+- [x] Study D3 Visualizations
+- [x] Bar Charts animation / Scatter plots
+- [ ] Study dashboard designing
 
 #### *25th Tue, Nov 2018*
-- [ ] Study D3 Visualizations
-- [ ] Bar Charts animation / Scatter plots
+- [x] Study D3 Visualizations
+- [x] Bar Charts animation / Scatter plots
 - [ ] Study dashboard designing
 
 #### *24th Mon, Nov 2018*
