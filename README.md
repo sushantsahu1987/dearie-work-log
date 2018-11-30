@@ -13,29 +13,35 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
-#### *26th Wed, Nov 2018*
+#### *30th Fri, Nov 2018*
+- [ ] Nothing done !
+
+#### *29th Thu, Nov 2018*
+- [ ] Nothing done !
+
+#### *28th Wed, Nov 2018*
 - [x] Study D3 Visualizations
 - [x] Bar Charts animation / Scatter plots
 - [ ] Study dashboard designing
 
-#### *25th Tue, Nov 2018*
+#### *27th Tue, Nov 2018*
 - [x] Study D3 Visualizations
 - [x] Bar Charts animation / Scatter plots
 - [ ] Study dashboard designing
 
-#### *24th Mon, Nov 2018*
+#### *26th Mon, Nov 2018*
 - [x] Work on password manager app
 - [ ] Work on post api's for graphql
 
-#### *24th Sun, Nov 2018*
+#### *25th Sun, Nov 2018*
 - [x] Work on password manager app
 - [x] Work on 2 factor authentication
 
-#### *23rd Sat, Nov 2018*
+#### *24rd Sat, Nov 2018*
 - [x] Take mother-in-law to hospital for catract operation
 - [x] No programming day
 
-#### *22rd Fri, Nov 2018*
+#### *23rd Fri, Nov 2018*
 - [x] Study D3 Visualizations
 - [x] Bar Charts
 
