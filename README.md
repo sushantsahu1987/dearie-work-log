@@ -14,9 +14,13 @@
 - [ ] Study Vue.js
 
 
+#### *2nd Sun, Dec 2018*
+- [x] Design ez-password-manager app
+- [ ] Build ez-password-manager app
+
 #### *1st Sat, Dec 2018*
-- [ ] Design ez-password-manager app
-- [ ] GraphQL Mutations
+- [x] Design ez-password-manager app
+- [x] GraphQL Mutations
 - [ ] Build ez-password-manager app
 
 #### *30th Fri, Nov 2018*
