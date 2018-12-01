@@ -13,6 +13,12 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+
+#### *1st Sat, Dec 2018*
+- [ ] Design ez-password-manager app
+- [ ] GraphQL Mutations
+- [ ] Build ez-password-manager app
+
 #### *30th Fri, Nov 2018*
 - [ ] Nothing done !
 
