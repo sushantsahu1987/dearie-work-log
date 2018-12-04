@@ -14,13 +14,16 @@
 - [ ] Study Vue.js
 
 
+#### *4th Sun, Dec 2018*
+- [x] Nothing done !
+
 #### *3rd Mon, Dec 2018*
 - [ ] Design ez-password-manager app
 - [ ] Build ez-password-manager app
 
 #### *2nd Sun, Dec 2018*
 - [x] Design ez-password-manager app
-- [ ] Build ez-password-manager app
+- [x] Build ez-password-manager app
 
 #### *1st Sat, Dec 2018*
 - [x] Design ez-password-manager app
