@@ -14,6 +14,9 @@
 - [ ] Study Vue.js
 
 
+#### *5th Mon, Dec 2018*
+- [x] Nothing done !
+
 #### *4th Sun, Dec 2018*
 - [x] Nothing done !
 
