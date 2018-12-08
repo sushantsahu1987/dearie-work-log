@@ -13,6 +13,20 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+#### *10th Sat, Dec 2018*
+- [x] Nothing done !
+
+#### *9th Fri, Dec 2018*
+- [x] Nothing done !
+
+#### *8th Thu, Dec 2018*
+- [x] Nothing done !
+
+#### *7th Wed, Dec 2018*
+- [x] Nothing done !
+
+#### *6th Tue, Dec 2018*
+- [x] Nothing done !
 
 #### *5th Mon, Dec 2018*
 - [x] Nothing done !
