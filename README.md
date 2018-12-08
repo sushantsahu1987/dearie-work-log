@@ -21,6 +21,7 @@
 
 #### *8th Thu, Dec 2018*
 - [x] Design ez-password-manager app
+- [x] Upload designs to github
 
 #### *7th Wed, Dec 2018*
 - [x] Nothing done !
