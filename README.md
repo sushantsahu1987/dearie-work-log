@@ -20,7 +20,7 @@
 - [x] Nothing done !
 
 #### *8th Thu, Dec 2018*
-- [x] Nothing done !
+- [x] Design ez-password-manager app
 
 #### *7th Wed, Dec 2018*
 - [x] Nothing done !
@@ -35,8 +35,8 @@
 - [x] Nothing done !
 
 #### *3rd Mon, Dec 2018*
-- [ ] Design ez-password-manager app
-- [ ] Build ez-password-manager app
+- [x] Design ez-password-manager app
+- [x] Build ez-password-manager app
 
 #### *2nd Sun, Dec 2018*
 - [x] Design ez-password-manager app
