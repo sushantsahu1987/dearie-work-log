@@ -13,26 +13,29 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
-#### *10th Sat, Dec 2018*
+#### *11th Tue, Dec 2018*
+- [x] Study Vue.js
+
+#### *10th Mon, Dec 2018*
 - [x] Nothing done !
 
-#### *9th Fri, Dec 2018*
+#### *9th Sun, Dec 2018*
 - [x] Nothing done !
 
-#### *8th Thu, Dec 2018*
+#### *8th Sat, Dec 2018*
 - [x] Design ez-password-manager app
 - [x] Upload designs to github
 
-#### *7th Wed, Dec 2018*
+#### *7th Fri, Dec 2018*
 - [x] Nothing done !
 
-#### *6th Tue, Dec 2018*
+#### *6th Thu, Dec 2018*
 - [x] Nothing done !
 
-#### *5th Mon, Dec 2018*
+#### *5th Wed, Dec 2018*
 - [x] Nothing done !
 
-#### *4th Sun, Dec 2018*
+#### *4th Tue, Dec 2018*
 - [x] Nothing done !
 
 #### *3rd Mon, Dec 2018*
