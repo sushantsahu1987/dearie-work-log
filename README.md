@@ -13,6 +13,13 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+#### *13th Thu, Dec 2018*
+- [x] Study Nuxt.js/Vue.js
+
+#### *12th Wed, Dec 2018*
+- [x] Study Nuxt.js/Vue.js
+- [x] Look into web components
+
 #### *11th Tue, Dec 2018*
 - [x] Study Vue.js
 
