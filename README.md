@@ -13,6 +13,20 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+
+#### *16th Sun, Dec 2018*
+- [x] Unwell & did not work
+
+#### *15th Sat, Dec 2018*
+- [x] Did not work
+
+#### *14th Fri, Dec 2018*
+- [x] Worked on syzero-password-manager
+- [x] Initiated code repository renaming/refactoring
+
+#### *13th Thu, Dec 2018*
+- [x] Study Nuxt.js/Vue.js
+
 #### *13th Thu, Dec 2018*
 - [x] Study Nuxt.js/Vue.js
 
