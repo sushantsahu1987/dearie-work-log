@@ -14,6 +14,9 @@
 - [ ] Study Vue.js
 
 
+#### *17th Mon, Dec 2018*
+- [x] Practice some javascript problems
+
 #### *16th Sun, Dec 2018*
 - [x] Unwell & did not work
 
