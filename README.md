@@ -16,6 +16,7 @@
 
 #### *17th Mon, Dec 2018*
 - [x] Practice some javascript problems
+- [x] Initiated code repository renaming/refactoring
 
 #### *16th Sun, Dec 2018*
 - [x] Unwell & did not work
