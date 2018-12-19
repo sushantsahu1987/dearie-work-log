@@ -2,7 +2,6 @@
 
 #### Backlog
 
-- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [ ] Determine javascript value data type sent from server
 - [ ] Contructor Pattern
 - [ ] Module Pattern
@@ -13,6 +12,14 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
+#### *18th Tue, Dec 2018*
+- [ ] Expo Helloworld
+- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
+
+
+#### *18th Tue, Dec 2018*
+- [x] Practice some javascript problems
+- [x] Initiated code repository renaming/refactoring
 
 #### *17th Mon, Dec 2018*
 - [x] Practice some javascript problems
