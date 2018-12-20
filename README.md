@@ -15,11 +15,12 @@
 
 #### *20th Thu, Dec 2018*
 - [x] Lotte explore it
-- [ ] Tutorial on Lotte with after effects
-- [ ] Create a lotte animation with affects - simple ball bouncing
-- [ ] Integrate above lotte with react native
+- [x] Tutorial on Lotte with after effects
+- [x] Create a lotte animation with affects - simple ball bouncing
+- [x] Integrate above lotte with react native
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [ ] Natural language processing
+- [ ] Purchase a course on after effects
 
 #### *19th Wed, Dec 2018*
 - [x] Expo Helloworld
