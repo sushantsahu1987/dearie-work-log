@@ -13,7 +13,7 @@
 - [ ] Study Vue.js
 
 
-#### *18th Wed, Dec 2018*
+#### *20th Thu, Dec 2018*
 - [x] Lotte explore it
 - [ ] Tutorial on Lotte with after effects
 - [ ] Create a lotte animation with affects - simple ball bouncing
@@ -21,7 +21,7 @@
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [ ] Natural language processing
 
-#### *18th Wed, Dec 2018*
+#### *19th Wed, Dec 2018*
 - [x] Expo Helloworld
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 
