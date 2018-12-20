@@ -12,10 +12,18 @@
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 
-#### *18th Tue, Dec 2018*
-- [ ] Expo Helloworld
-- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 
+#### *18th Wed, Dec 2018*
+- [x] Lotte explore it
+- [ ] Tutorial on Lotte with after effects
+- [ ] Create a lotte animation with affects - simple ball bouncing
+- [ ] Integrate above lotte with react native
+- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
+- [ ] Natural language processing
+
+#### *18th Wed, Dec 2018*
+- [x] Expo Helloworld
+- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 
 #### *18th Tue, Dec 2018*
 - [x] Practice some javascript problems
