@@ -11,7 +11,13 @@
 - [ ] Graphql prototype
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
+- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
+- [ ] Natural language processing
+- [ ] Purchase a course on after effects
 
+#### *21st Fri, Dec 2018*
+- [x] Natural language processing
+- [ ] 2FA - Emoji
 
 #### *20th Thu, Dec 2018*
 - [x] Lotte explore it
