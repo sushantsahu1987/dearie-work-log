@@ -15,9 +15,15 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *23rd Sun, Dec 2018*
+- [x] 2FA - Emoji
+
+#### *22nd Sat, Dec 2018*
+- [x] 2FA - Emoji
+
 #### *21st Fri, Dec 2018*
 - [x] Natural language processing
-- [ ] 2FA - Emoji
+- [x] 2FA - Emoji
 
 #### *20th Thu, Dec 2018*
 - [x] Lotte explore it
