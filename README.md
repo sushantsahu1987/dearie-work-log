@@ -15,6 +15,12 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *26th Tue, Dec 2018*
+- [x] 2FA - Emoji - Prod BE
+
+#### *25th Tue, Dec 2018*
+- [x] 2FA - Emoji - Prod BE
+
 #### *24th Tue, Dec 2018*
 - [x] 2FA - Emoji - Mob App
 - [x] 2FA - Emoji - Prod BE
