@@ -16,9 +16,10 @@
 - [ ] Purchase a course on after effects
 
 #### *29th Sat, Dec 2018*
+- [ ] Work on dashboard for 2FA
 
 #### *28th Fri, Dec 2018*
-- [ ] Work on dearie work log
+- [x] Work on dearie work log
 
 #### *27th Thu, Dec 2018*
 - [x] 2FA - Emoji - Prod FE
