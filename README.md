@@ -15,9 +15,10 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *29th Sat, Dec 2018*
 
 #### *28th Fri, Dec 2018*
-- [x] Study mobx
+- [ ] Work on dearie work log
 
 #### *27th Thu, Dec 2018*
 - [x] 2FA - Emoji - Prod FE
