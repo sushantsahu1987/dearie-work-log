@@ -15,8 +15,18 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *1st Tue, Dec 2018*
+- [x] Code refactoring
+- [x] Update readme's all over git hub
+
+#### *31st Mon, Dec 2018*
+- [x] No Work done
+
+#### *30th Sun, Dec 2018*
+- [x] Work on ubiquitous gateway
+
 #### *29th Sat, Dec 2018*
-- [ ] Work on dashboard for 2FA
+- [x] Work on dashboard for 2FA
 
 #### *28th Fri, Dec 2018*
 - [x] Work on dearie work log
