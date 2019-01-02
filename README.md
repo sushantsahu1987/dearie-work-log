@@ -16,6 +16,10 @@
 - [ ] Purchase a course on after effects
 
 #### *1st Tue, Dec 2018*
+- [x] Study javascript
+- [x] Work on docker
+
+#### *1st Tue, Dec 2018*
 - [x] Code refactoring
 - [x] Update readme's all over git hub
 
