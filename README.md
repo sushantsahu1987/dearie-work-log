@@ -15,7 +15,13 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *2nd Mon, Dec 2018*
+#### *5th Fri, Dec 2018*
+- [x] Study React testing
+
+#### *4th Thu, Dec 2018*
+- [x] Study javascript
+
+#### *3rd Wed, Dec 2018*
 - [x] Study javascript
 - [x] Work on docker
 
