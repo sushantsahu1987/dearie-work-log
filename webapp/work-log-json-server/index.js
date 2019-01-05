@@ -18,16 +18,6 @@ for (let i = 0; i < 10; i++) {
 
 }
 
-// Array(10).fill().map(v => {
-//     const w = {
-//         id: uuidv1(),
-//         date: moment(faker.date.recent()).format('DD-MM-YYYY'),
-//         name: faker.lorem.sentence(),
-//         status: 0
-//     }
-//     worklog.push(w);
-// });
-
 const app = express();
 app.use(bodyParser.json());
 app.get('/worklog', (req, resp) => {
