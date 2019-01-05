@@ -15,6 +15,9 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *6th Sat, Dec 2018*
+- [x] No work taking care of oreo
+
 #### *5th Fri, Dec 2018*
 - [x] Study React testing
 
