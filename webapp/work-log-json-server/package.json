@@ -1,0 +1,25 @@
+{
+  "name": "work-log-json-server",
+  "version": "1.0.0",
+  "description": "A simple json webserver to simulate work log",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/nodemon/bin/nodemon.js index.js"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs"
+  ],
+  "author": "ssahu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "faker": "^4.1.0",
+    "moment": "^2.23.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
