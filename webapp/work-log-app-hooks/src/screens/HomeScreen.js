@@ -14,7 +14,7 @@ function HomeScreen(props) {
     }, []);
 
     const getWorkLog = () => {
-        fetch('http://localhost:3001/worklog')
+        fetch('http://localhost:3001/api/v1/worklog')
         .then(res => res.json())
         .then(data => {
           data.worklog.map(val => {
@@ -29,7 +29,7 @@ function HomeScreen(props) {
     const onAdd = (data) => {
       console.log(data);
 
-      fetch('http://localhost:3001/worklog', {
+      fetch('http://localhost:3001/api/v1/worklog/add', {
         method: 'POST',
         headers: {
           "Content-Type": "application/json",
@@ -51,7 +51,7 @@ function HomeScreen(props) {
 
         console.log(data);
   
-        fetch('http://localhost:3001/worklog/update', {
+        fetch('http://localhost:3001/api/v1/worklog/update', {
           method: 'POST',
           headers: {
             "Content-Type": "application/json",
@@ -72,7 +72,7 @@ function HomeScreen(props) {
 
     const onCancel = (data) => {
   
-        fetch('http://localhost:3001/worklog/cancel', {
+        fetch('http://localhost:3001/api/v1/worklog/cancel', {
           method: 'POST',
           headers: {
             "Content-Type": "application/json",

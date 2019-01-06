@@ -1,11 +1,12 @@
 import React from 'react';
+import {Navbar, NavbarBrand,Button} from 'reactstrap'
 import './Header.css';
 
 function Header(props) {
 
     return (
-        <nav className="header">
-            <h2>Header</h2>
+        <Navbar color="light">
+            <NavbarBrand>Work Log</NavbarBrand>
             {
                 console.log(props)
             }
@@ -15,11 +16,13 @@ function Header(props) {
             <div className={ !props.show 
                         ? "show" 
                         : "hide" }>
-                <button onClick={props.onLogout}>
+                <Button 
+                    color="danger"
+                    onClick={props.onLogout}>
                     Logout
-                </button>
+                </Button>
             </div>
-        </nav>
+        </Navbar>
     )
 
 }

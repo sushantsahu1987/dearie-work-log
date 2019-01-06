@@ -1,4 +1,5 @@
 import React from 'react';
+import {Button} from 'reactstrap';
 
 
 function TableRow(props) {
@@ -31,17 +32,21 @@ function TableRow(props) {
             </td>
 
             <td>
-                <button onClick={()=> {
+                <Button 
+                    color="link"
+                    onClick={()=> {
                     props.onToggle(props.id);
                 }}>
                     Toggle
-                </button>
+                </Button>
 
-                <button onClick={()=> {
+                <Button 
+                    color="link"
+                    onClick={()=> {
                     props.onCancel(props.id)
                 }}>
                     Cancel
-                </button>
+                </Button>
             </td>
         </tr>
     );

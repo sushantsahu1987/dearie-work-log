@@ -1,10 +1,11 @@
 import React,{useState} from 'react';
 import './Table.css';
+import { Table as TableStrap, Button, 
+        Form, FormGroup, Label,
+        Input, Container, Row, Col,
+        Alert } from 'reactstrap';
 import TableRow from './TableRow';
 import TableHeader from './TableHeader';
-import uuidv1 from 'uuid/v1';
-
-import {parseDate, formatDate} from '../utils/utils'
 
 function Table(props) {
 
@@ -49,42 +50,87 @@ function Table(props) {
 
     return (
         <div>
-            <h3>Daily tasks</h3>
-            <form onSubmit={onAdd}>
-                <input type="date" 
-                    value={newWorkDate}
-                    onChange={onDateChange}
-                    />
-                <input type="text" 
-                    value={newWorkName}
-                    onChange={onTextChange}
-                    />
-                <input type="submit" value="Add"/>
-            </form>
+            
+            <Container>
+                <Row>
+                    <Col xs="3">
+                        <h4>Add tasks</h4>
+                    </Col>
+
+                    <Col xs="9">
+                        <h4>Tasks</h4>
+                    </Col>
+                </Row>
+
+                <Row>
+                    <br/>
+                </Row>
+
+                <Row>
+                    <Col xs="3">
+                        <Form onSubmit={onAdd}>
+                            <FormGroup>
+                                <Label>Date</Label>
+                                <Input type="date" 
+                                    value={newWorkDate}
+                                    onChange={onDateChange}
+                                    />
+                            </FormGroup>
+                            <FormGroup>
+                                <Label>Task</Label>
+                                <Input type="textarea" 
+                                    rows="6"
+                                    value={newWorkName}
+                                    onChange={onTextChange}
+                                    />
+                            </FormGroup>
+                            <FormGroup>
+                                <Button color="primary" style={
+                                    {
+                                        marginRight:"5px"
+                                    }
+                                }>
+                                    Add
+                                </Button>
+                                <Button color="danger">
+                                    Clear
+                                </Button>
+                            </FormGroup>
+                        </Form>
+                    </Col>
+                    <Col xs="9">
+                        <Alert color="primary">
+                            Tasks
+                        </Alert>
+                        <TableStrap bordered hover striped>
+                            <TableHeader/>
+                            <tbody>
+                            {
+                                props.data.map(val => {
+                                    return (
+                                        <TableRow
+                                            onCancel={onCancel}
+                                            onToggle={onToggle}
+                                            key={val.id}
+                                            id={val.id}
+                                            date={val.date}
+                                            name={val.name}
+                                            status={val.status} />
+                                    )
+                                })
+                            }
+                            </tbody>
+                        </TableStrap>
+                    </Col>
+                </Row>
+                
+            
             <br/>            
-            <table>
-                <tbody>
-                <TableHeader/>
-                {
-                    props.data.map(val => {
-                        return (
-                            <TableRow
-                                onCancel={onCancel}
-                                onToggle={onToggle}
-                                key={val.id}
-                                id={val.id}
-                                date={val.date}
-                                name={val.name}
-                                status={val.status} />
-                        )
-                    })
-                }
-                </tbody>
-            </table>
+
+            </Container>
         </div>
     )
 
 }
-
 
 export default Table;

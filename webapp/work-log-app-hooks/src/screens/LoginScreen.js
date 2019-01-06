@@ -1,4 +1,7 @@
 import React, {useState} from 'react';
+import {Button, Form, FormGroup,
+        Container, Row, Col, Label,
+        Input, Alert} from 'reactstrap';
 import './LoginScreen.css';
 
 function LoginScreen(props) {
@@ -21,23 +24,37 @@ function LoginScreen(props) {
 
     return (
         <div className="login">
-            <form onSubmit={onSubmit}>
-                <div className="input">
-                    <label className="label">Email</label>
-                    <input type="text" 
-                            onChange={onUserNamechange}
-                            value={username}
-                            placeholder="abc@xxx.com"/>
-                </div>
-                <div className="input">
-                    <label className="label">Password</label>
-                    <input type="password"
-                            onChange={onPasswordchange} 
-                            value={password}
-                            placeholder="abc1234"/>
-                </div>
-                <button>Login</button>
-            </form>
+            <Container>
+                <Form onSubmit={onSubmit}>
+                    <FormGroup row>
+                        <Col sm={2}>
+                            <Label className="label">Email</Label>
+                        </Col>
+                        <Col sm={6}>
+                            <Input type="text" 
+                                onChange={onUserNamechange}
+                                value={username}
+                                placeholder="abc@xxx.com"/>
+                        </Col>
+
+                    </FormGroup>
+
+
+                    <FormGroup row>
+                        <Col sm={2}>
+                            <Label className="label">Password</Label>
+                        </Col>
+                        <Col sm={6}>
+                            <Input type="password"
+                                onChange={onPasswordchange} 
+                                value={password}
+                                placeholder="abc1234"/>
+                        </Col>
+                    </FormGroup>
+                    
+                    <Button color="primary">Login</Button>
+                </Form>
+            </Container>
         </div>
     )
 

@@ -1,5 +1,5 @@
 import React,{useEffect, useState} from 'react';
-import {Route} from 'react-router-dom';
+import {Route, withRouter} from 'react-router-dom';
 import Header from './components/Header';
 import HomeScreen from './screens/HomeScreen';
 
@@ -10,9 +10,11 @@ function App(props) {
 
     const [loggedIn, setLoggedIn] = useState(false);
 
+    console.log(props);
+
     const onLogout = () => {
 
-        fetch('http://localhost:3001/worklog/logout',
+        fetch('http://localhost:3001/api/v1/user/logout',
         {
             method:"POST",
             headers: {
@@ -26,6 +28,7 @@ function App(props) {
         .then(data => {
             if(data.msg === 'success') {
                 setLoggedIn(false);
+                props.history.push('/');
             }
         })
         .catch(e => {
@@ -35,7 +38,7 @@ function App(props) {
 
     const onLogin = (username, password) => {
 
-        fetch('http://localhost:3001/worklog/login',
+        fetch('http://localhost:3001/api/v1/user/login',
         {
             method:"POST",
             headers: {
@@ -50,6 +53,7 @@ function App(props) {
         .then(data => {
             if(data.msg === 'success') {
                 setLoggedIn(true);
+                props.history.push('/home');
             }else {
                 setLoggedIn(false);
             }
@@ -83,4 +87,4 @@ function App(props) {
 
 }
 
-export default App;
+export default withRouter(App);
