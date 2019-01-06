@@ -15,6 +15,9 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *7th Sun, Dec 2018*
+- [x] Work on dearie work log
+
 #### *6th Sat, Dec 2018*
 - [x] No work taking care of oreo
 
