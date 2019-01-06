@@ -1,4 +1,5 @@
 import React,{useEffect, useState} from 'react';
+import {Route} from 'react-router-dom';
 import Header from './components/Header';
 import HomeScreen from './screens/HomeScreen';
 
@@ -9,11 +10,30 @@ function App(props) {
 
     const [loggedIn, setLoggedIn] = useState(false);
 
-    const onLogin = (username, password) => {
+    const onLogout = () => {
 
-        console.log('on login : ')
-        console.log(username);
-        console.log(password);
+        fetch('http://localhost:3001/worklog/logout',
+        {
+            method:"POST",
+            headers: {
+                "Content-Type":"application/json",
+            },
+            body: JSON.stringify({
+
+            })
+        })
+        .then(resp => resp.json())
+        .then(data => {
+            if(data.msg === 'success') {
+                setLoggedIn(false);
+            }
+        })
+        .catch(e => {
+            console.log(e);
+        })
+    }
+
+    const onLogin = (username, password) => {
 
         fetch('http://localhost:3001/worklog/login',
         {
@@ -28,7 +48,6 @@ function App(props) {
         })
         .then(resp => resp.json())
         .then(data => {
-            console.log(data);
             if(data.msg === 'success') {
                 setLoggedIn(true);
             }else {
@@ -40,14 +59,26 @@ function App(props) {
         })
     }
 
+    const Login = () => {
+        return (
+            <LoginScreen 
+                onLogin = {onLogin}/>
+        )
+    }
+
     return (
-      <div>
-          <Header 
-            show={loggedIn}/>
-          {/* <HomeScreen/> */}
-          <LoginScreen 
-            onLogin={onLogin} />
-      </div>
+        <div>
+            <div>
+                <Header 
+                    onLogout={onLogout}
+                    show={loggedIn}/>
+            </div>
+            <div>
+                <Route path="/" exact component={Login} />
+                <Route path="/login" component={Login} />
+                <Route path="/home" component={HomeScreen}/>
+            </div>
+        </div>
     );
 
 }

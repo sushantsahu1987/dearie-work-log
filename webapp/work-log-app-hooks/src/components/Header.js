@@ -15,7 +15,9 @@ function Header(props) {
             <div className={ !props.show 
                         ? "show" 
                         : "hide" }>
-                <button>Logout</button>
+                <button onClick={props.onLogout}>
+                    Logout
+                </button>
             </div>
         </nav>
     )
