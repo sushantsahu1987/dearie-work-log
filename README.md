@@ -15,7 +15,13 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *7th Sun, Dec 2018*
+#### *8th Wed, Dec 2018*
+- [x] Nothing done today !
+
+#### *8th Tue, Dec 2018*
+- [x] Nothing done today !
+
+#### *7th Mon, Dec 2018*
 - [x] Work on dearie work log
 
 #### *6th Sat, Dec 2018*
