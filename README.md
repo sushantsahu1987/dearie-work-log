@@ -15,18 +15,42 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *20th Sun, Dec 2018*
+- [x] Work on expo geo location
+- [x] Mooveer
 
-#### *11th Sat, Dec 2018*
+#### *19th Sat, Dec 2018*
+- [x] Vacation
+
+#### *18th Fri, Dec 2018*
+- [x] Vacation
+
+#### *17th Thu, Dec 2018*
+- [x] Vacation
+
+#### *16th Wed, Dec 2018*
+- [x] Vacation
+
+#### *15th Tue, Dec 2018*
+- [x] Vacation
+
+#### *14th Mon, Dec 2018*
+- [x] Vacation
+
+#### *13th Sun, Dec 2018*
+- [x] Vacation
+
+#### *12th Sat, Dec 2018*
 - [x] Nothing done today !
 - [x] Vacation starts
 
-#### *10th Fri, Dec 2018*
+#### *11th Fri, Dec 2018*
 - [x] Nothing done today !
 
-#### *9th Thu, Dec 2018*
+#### *10th Thu, Dec 2018*
 - [x] Nothing done today !
 
-#### *8th Wed, Dec 2018*
+#### *9th Wed, Dec 2018*
 - [x] Nothing done today !
 
 #### *8th Tue, Dec 2018*
