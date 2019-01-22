@@ -15,6 +15,13 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+
+#### *22nd Tue, Dec 2018*
+- [x] Javascript basics
+
+#### *21th Mon, Dec 2018*
+- [x] Nothing done
+
 #### *20th Sun, Dec 2018*
 - [x] Work on expo geo location
 - [x] Mooveer
