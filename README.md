@@ -15,6 +15,8 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *23rd Wed, Dec 2018*
+- [x] Secure Locker Backend
 
 #### *22nd Tue, Dec 2018*
 - [x] Javascript basics
