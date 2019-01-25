@@ -15,73 +15,80 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *23rd Wed, Dec 2018*
+
+#### *25th Thu, Jan 2018*
+- [x] Secure Locker WebApp
+
+#### *24th Thu, Jan 2018*
 - [x] Secure Locker Backend
 
-#### *22nd Tue, Dec 2018*
+#### *23rd Wed, Jan 2018*
+- [x] Secure Locker Backend
+
+#### *22nd Tue, Jan 2018*
 - [x] Javascript basics
 
-#### *21th Mon, Dec 2018*
+#### *21th Mon, Jan 2018*
 - [x] Nothing done
 
-#### *20th Sun, Dec 2018*
+#### *20th Sun, Jan 2018*
 - [x] Work on expo geo location
 - [x] Mooveer
 
-#### *19th Sat, Dec 2018*
+#### *19th Sat, Jan 2018*
 - [x] Vacation
 
-#### *18th Fri, Dec 2018*
+#### *18th Fri, Jan 2018*
 - [x] Vacation
 
-#### *17th Thu, Dec 2018*
+#### *17th Thu, Jan 2018*
 - [x] Vacation
 
-#### *16th Wed, Dec 2018*
+#### *16th Wed, Jan 2018*
 - [x] Vacation
 
-#### *15th Tue, Dec 2018*
+#### *15th Tue, Jan 2018*
 - [x] Vacation
 
-#### *14th Mon, Dec 2018*
+#### *14th Mon, Jan 2018*
 - [x] Vacation
 
-#### *13th Sun, Dec 2018*
+#### *13th Sun, Jan 2018*
 - [x] Vacation
 
-#### *12th Sat, Dec 2018*
+#### *12th Sat, Jan 2018*
 - [x] Nothing done today !
 - [x] Vacation starts
 
-#### *11th Fri, Dec 2018*
+#### *11th Fri, Jan 2018*
 - [x] Nothing done today !
 
-#### *10th Thu, Dec 2018*
+#### *10th Thu, Jan 2018*
 - [x] Nothing done today !
 
-#### *9th Wed, Dec 2018*
+#### *9th Wed, Jan 2018*
 - [x] Nothing done today !
 
-#### *8th Tue, Dec 2018*
+#### *8th Tue, Jan 2018*
 - [x] Nothing done today !
 
-#### *7th Mon, Dec 2018*
+#### *7th Mon, Jan 2018*
 - [x] Work on dearie work log
 
-#### *6th Sat, Dec 2018*
+#### *6th Sat, Jan 2018*
 - [x] No work taking care of oreo
 
-#### *5th Fri, Dec 2018*
+#### *5th Fri, Jan 2018*
 - [x] Study React testing
 
-#### *4th Thu, Dec 2018*
+#### *4th Thu, Jan 2018*
 - [x] Study javascript
 
-#### *3rd Wed, Dec 2018*
+#### *3rd Wed, Jan 2018*
 - [x] Study javascript
 - [x] Work on docker
 
-#### *1st Tue, Dec 2018*
+#### *1st Tue, Jan 2018*
 - [x] Code refactoring
 - [x] Update readme's all over git hub
 
