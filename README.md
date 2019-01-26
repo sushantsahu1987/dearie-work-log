@@ -16,7 +16,11 @@
 - [ ] Purchase a course on after effects
 
 
-#### *25th Thu, Jan 2018*
+#### *26th Sat, Jan 2018*
+- [x] Secure Locker WebApp
+- [x] Secure Locker Fake Server
+
+#### *25th Fri, Jan 2018*
 - [x] Secure Locker WebApp
 
 #### *24th Thu, Jan 2018*
