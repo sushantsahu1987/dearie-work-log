@@ -15,6 +15,9 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *28th Sun, Jan 2018*
+- [x] Secure Locker WebApp
+
 #### *27th Sun, Jan 2018*
 - [x] Secure Locker WebApp
 - [x] Secure Locker Fake Server
