@@ -18,6 +18,7 @@
 
 #### *29th Tue, Jan 2018*
 - [x] Continue demo on socket.io
+- [x] Consider moving to AWS
 
 #### *29th Tue, Jan 2018*
 - [x] Working on socket.io
