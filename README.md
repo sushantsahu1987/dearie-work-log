@@ -15,8 +15,12 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+
 #### *29th Tue, Jan 2018*
-- [x] Nothing done !
+- [x] Continue demo on socket.io
+
+#### *29th Tue, Jan 2018*
+- [x] Working on socket.io
 
 #### *28th Mon, Jan 2018*
 - [x] Secure Locker WebApp
