@@ -15,6 +15,11 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *31st Wed, Jan 2018*
+- [x] Start migration to AWS
+
+#### *30th Tue, Jan 2018*
+- [x] Nothing done
 
 #### *29th Tue, Jan 2018*
 - [x] Continue demo on socket.io
