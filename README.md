@@ -15,7 +15,7 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *1st Fri, Jan 2018*
+#### *2nd Sat, Jan 2018*
 - [x] working on project stargate
 
 #### *1st Fri, Jan 2018*
