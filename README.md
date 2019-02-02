@@ -15,10 +15,16 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *31st Wed, Jan 2018*
+#### *1st Fri, Jan 2018*
+- [x] working on project stargate
+
+#### *1st Fri, Jan 2018*
+- [x] Nothing done here
+
+#### *31st Thu, Jan 2018*
 - [x] Start migration to AWS
 
-#### *30th Tue, Jan 2018*
+#### *30th Wed, Jan 2018*
 - [x] Nothing done
 
 #### *29th Tue, Jan 2018*
