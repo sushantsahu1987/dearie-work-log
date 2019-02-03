@@ -15,6 +15,10 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+
+#### *3rd Sun, Jan 2018*
+- [x] working with postgress on aws
+
 #### *2nd Sat, Jan 2018*
 - [x] working on project stargate
 
