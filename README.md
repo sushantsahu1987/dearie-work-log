@@ -15,10 +15,11 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *5th Tue, Jan 2018*
+- [x] read on designing my blog ...
 
 #### *4th Mon, Jan 2018*
-- [x] working with postgress on aws
-- [x] hello world on next.js
+- [x] nothing done
 
 #### *3rd Sun, Jan 2018*
 - [x] working with postgress on aws
