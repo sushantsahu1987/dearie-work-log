@@ -14,9 +14,14 @@
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
+- [ ] read on designing my blog ...
+
+
+#### *6th Wed, Jan 2018*
+- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 
 #### *5th Tue, Jan 2018*
-- [x] read on designing my blog ...
+- [x] Did nothing ...
 
 #### *4th Mon, Jan 2018*
 - [x] nothing done
