@@ -19,6 +19,7 @@
 
 #### *6th Wed, Jan 2018*
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
+- [ ] Build react app using bootstrap swatch
 
 #### *5th Tue, Jan 2018*
 - [x] Did nothing ...
