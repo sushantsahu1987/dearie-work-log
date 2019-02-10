@@ -16,10 +16,21 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
+#### *10th Sun, Jan 2018*
+- [x] Build react app using bootstrap swatch
+
+#### *9th Sat, Jan 2018*
+- [x] Nothing
+
+#### *8th Fri, Jan 2018*
+- [x] Nothing
+
+#### *7th Thu, Jan 2018*
+- [x] Nothing
 
 #### *6th Wed, Jan 2018*
-- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
-- [ ] Build react app using bootstrap swatch
+- [x] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
+- [x] Build react app using bootstrap swatch
 
 #### *5th Tue, Jan 2018*
 - [x] Did nothing ...
