@@ -16,6 +16,16 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
+
+#### *10th Wed, Jan 2018*
+- [x] Datastructures in javascript
+
+#### *10th Tue, Jan 2018*
+- [x] Nothing done
+
+#### *10th Mon, Jan 2018*
+- [x] Nothing done
+
 #### *10th Sun, Jan 2018*
 - [x] Build react app using bootstrap swatch
 
