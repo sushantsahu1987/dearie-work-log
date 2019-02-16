@@ -16,14 +16,22 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
+#### *16th Sat, Jan 2018*
+- [x] Dashboad
 
-#### *10th Wed, Jan 2018*
-- [x] Datastructures in javascript
-
-#### *10th Tue, Jan 2018*
+#### *15th Fri, Jan 2018*
 - [x] Nothing done
 
-#### *10th Mon, Jan 2018*
+#### *14th Thu, Jan 2018*
+- [x] Nothing done
+
+#### *13th Wed, Jan 2018*
+- [x] Nothing done
+
+#### *12th Tue, Jan 2018*
+- [x] Nothing done
+
+#### *11th Mon, Jan 2018*
 - [x] Nothing done
 
 #### *10th Sun, Jan 2018*
