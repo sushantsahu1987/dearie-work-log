@@ -16,8 +16,11 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
+#### *17th Sun, Jan 2018*
+- [x] Learn how to work with git submodules 
+
 #### *16th Sat, Jan 2018*
-- [x] Dashboad
+- [x] Dashboad designing
 
 #### *15th Fri, Jan 2018*
 - [x] Nothing done
