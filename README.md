@@ -17,6 +17,9 @@
 - [ ] read on designing my blog ...
 
 
+#### *19th Wed, Jan 2018*
+- [x] Nothing done today
+
 #### *18th Tue, Jan 2018*
 - [x] Committed database project with docker to git
 
