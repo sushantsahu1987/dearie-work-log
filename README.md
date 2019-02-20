@@ -17,67 +17,67 @@
 - [ ] read on designing my blog ...
 
 
-#### *19th Wed, Jan 2018*
+#### *19th Wed, Feb 2018*
 - [x] Nothing done today
 
-#### *18th Tue, Jan 2018*
+#### *18th Tue, Feb 2018*
 - [x] Committed database project with docker to git
 
-#### *18th Mon, Jan 2018*
+#### *18th Mon, Feb 2018*
 - [x] Study on visualization
 
-#### *17th Sun, Jan 2018*
+#### *17th Sun, Feb 2018*
 - [x] Learn how to work with git submodules 
 - [x] Built a database project with docker
 
-#### *16th Sat, Jan 2018*
+#### *16th Sat, Feb 2018*
 - [x] Dashboad designing
 
-#### *15th Fri, Jan 2018*
+#### *15th Fri, Feb 2018*
 - [x] Nothing done
 
-#### *14th Thu, Jan 2018*
+#### *14th Thu, Feb 2018*
 - [x] Nothing done
 
-#### *13th Wed, Jan 2018*
+#### *13th Wed, Feb 2018*
 - [x] Nothing done
 
-#### *12th Tue, Jan 2018*
+#### *12th Tue, Feb 2018*
 - [x] Nothing done
 
-#### *11th Mon, Jan 2018*
+#### *11th Mon, Feb 2018*
 - [x] Nothing done
 
-#### *10th Sun, Jan 2018*
+#### *10th Sun, Feb 2018*
 - [x] Build react app using bootstrap swatch
 
-#### *9th Sat, Jan 2018*
+#### *9th Sat, Feb 2018*
 - [x] Nothing
 
-#### *8th Fri, Jan 2018*
+#### *8th Fri, Feb 2018*
 - [x] Nothing
 
-#### *7th Thu, Jan 2018*
+#### *7th Thu, Feb 2018*
 - [x] Nothing
 
-#### *6th Wed, Jan 2018*
+#### *6th Wed, Feb 2018*
 - [x] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [x] Build react app using bootstrap swatch
 
-#### *5th Tue, Jan 2018*
+#### *5th Tue, Feb 2018*
 - [x] Did nothing ...
 
-#### *4th Mon, Jan 2018*
+#### *4th Mon, Feb 2018*
 - [x] nothing done
 
-#### *3rd Sun, Jan 2018*
+#### *3rd Sun, Feb 2018*
 - [x] working with postgress on aws
 - [x] saw tutorial on next.js
 
-#### *2nd Sat, Jan 2018*
+#### *2nd Sat, Feb 2018*
 - [x] working on project stargate
 
-#### *1st Fri, Jan 2018*
+#### *1st Fri, Feb 2018*
 - [x] Nothing done here
 
 #### *31st Thu, Jan 2018*
