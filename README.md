@@ -17,10 +17,10 @@
 - [ ] read on designing my blog ...
 
 
-#### *19th Wed, Feb 2018*
+#### *20th Wed, Feb 2018*
 - [x] Nothing done today
 
-#### *18th Tue, Feb 2018*
+#### *19th Tue, Feb 2018*
 - [x] Committed database project with docker to git
 
 #### *18th Mon, Feb 2018*
