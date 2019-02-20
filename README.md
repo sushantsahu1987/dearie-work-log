@@ -16,8 +16,16 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
+
+#### *18th Tue, Jan 2018*
+- [x] Committed database project with docker to git
+
+#### *18th Mon, Jan 2018*
+- [x] Study on visualization
+
 #### *17th Sun, Jan 2018*
 - [x] Learn how to work with git submodules 
+- [x] Built a database project with docker
 
 #### *16th Sat, Jan 2018*
 - [x] Dashboad designing
