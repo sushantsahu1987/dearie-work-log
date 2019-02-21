@@ -17,6 +17,9 @@
 - [ ] read on designing my blog ...
 
 
+#### *21st Thu, Feb 2018*
+- [x] Work on building a two-factor app
+
 #### *20th Wed, Feb 2018*
 - [x] Nothing done today
 
