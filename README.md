@@ -8,7 +8,6 @@
 - [ ] Singleton Pattern
 - [ ] Observer Pattern
 - [ ] Work on developing backend for dearie work log
-- [ ] Graphql prototype
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
