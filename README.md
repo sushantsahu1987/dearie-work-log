@@ -18,9 +18,7 @@
 
 
 #### *22nd Fri, Feb 2018*
-- [x] Work on Docker with mongodb, graphql
-- [x] Modify existing project zion, replacing postgresql with mongodb
-- [x] React learning with suspence & lazy
+- [ ] Nothing done
 
 #### *21st Thu, Feb 2018*
 - [x] Work on building a two-factor app
