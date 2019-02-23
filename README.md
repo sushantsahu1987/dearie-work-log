@@ -15,13 +15,16 @@
 - [ ] Purchase a course on after effects
 - [ ] read on designing my blog ...
 
-#### *23rd Sat, Feb 2018*
+#### *24th Sun, Feb 2018*
 - [ ] Work on Docker with mongodb, graphql
 - [ ] Modify existing project zion, replacing postgresql with mongodb
-- [ ] React learning with suspence & lazy
+
+#### *23rd Sat, Feb 2018*
+- [x] React learning with suspence & lazy
+- [x] Design ux blog page
 
 #### *22nd Fri, Feb 2018*
-- [ ] Nothing done
+- [x] Nothing done
 
 #### *21st Thu, Feb 2018*
 - [x] Work on building a two-factor app
