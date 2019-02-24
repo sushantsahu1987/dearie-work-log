@@ -16,6 +16,7 @@
 - [ ] read on designing my blog ...
 
 #### *24th Sun, Feb 2018*
+- [x] Learning mongodb with docker 
 - [ ] Work on Docker with mongodb, graphql
 - [ ] Modify existing project zion, replacing postgresql with mongodb
 
