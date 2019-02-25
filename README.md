@@ -15,8 +15,9 @@
 - [ ] Purchase a course on after effects
 
 #### *25th Mon, Feb 2018*
-- [ ] Study react 
-- [ ] Study react native 
+- [x] Study react 
+- [x] Study react native 
+- [x] Study dashboard design
 - [ ] Work on Docker with mongodb, graphql
 - [ ] Modify existing project zion, replacing postgresql with mongodb
 
