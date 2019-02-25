@@ -13,7 +13,12 @@
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
-- [ ] read on designing my blog ...
+
+#### *25th Mon, Feb 2018*
+- [ ] Study react 
+- [ ] Study react native 
+- [ ] Work on Docker with mongodb, graphql
+- [ ] Modify existing project zion, replacing postgresql with mongodb
 
 #### *24th Sun, Feb 2018*
 - [x] Learning mongodb with docker 
@@ -23,6 +28,7 @@
 #### *23rd Sat, Feb 2018*
 - [x] React learning with suspence & lazy
 - [x] Design ux blog page
+- [x] read on designing my blog ...
 
 #### *22nd Fri, Feb 2018*
 - [x] Nothing done
