@@ -14,6 +14,18 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *1st Fri, Feb 2018*
+- [x] Look at Gatsby
+
+#### *31st Thu, Feb 2018*
+- [x] Nothing here
+
+#### *30th Wed, Feb 2018*
+- [x] Nothing here
+
+#### *26th Tue, Feb 2018*
+- [x] Nothing here
+
 #### *25th Mon, Feb 2018*
 - [x] Study react 
 - [x] Study react native 
