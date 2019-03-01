@@ -14,8 +14,9 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *1st Fri, Feb 2018*
-- [x] Look at Gatsby
+#### *1st Fri, Mar 2018*
+- [x] Study D3.js
+- [x] Study Webpack, Babel
 
 #### *31st Thu, Feb 2018*
 - [x] Nothing here
