@@ -15,106 +15,109 @@
 - [ ] Purchase a course on after effects
 
 
-#### *1st Sun, Mar 2018*
+#### *4th Mon, Mar 2019*
+- [x] Work on portraits for Khushboo
+
+#### *3rd Sun, Mar 2019*
 - [x] Docker update in gatsby project...
 
-#### *1st Sat, Mar 2018*
+#### *2nd Sat, Mar 2019*
 - [x] Nothing
 
-#### *1st Fri, Mar 2018*
+#### *1st Fri, Mar 2019*
 - [x] Study D3.js
 - [x] Study Webpack, Babel
 
-#### *31st Thu, Feb 2018*
+#### *31st Thu, Feb 2019*
 - [x] Nothing here
 
-#### *30th Wed, Feb 2018*
+#### *30th Wed, Feb 2019*
 - [x] Nothing here
 
-#### *26th Tue, Feb 2018*
+#### *26th Tue, Feb 2019*
 - [x] Nothing here
 
-#### *25th Mon, Feb 2018*
+#### *25th Mon, Feb 2019*
 - [x] Study react 
 - [x] Study react native 
 - [x] Study dashboard design
 - [ ] Work on Docker with mongodb, graphql
 - [ ] Modify existing project zion, replacing postgresql with mongodb
 
-#### *24th Sun, Feb 2018*
+#### *24th Sun, Feb 2019*
 - [x] Learning mongodb with docker 
 - [ ] Work on Docker with mongodb, graphql
 - [ ] Modify existing project zion, replacing postgresql with mongodb
 
-#### *23rd Sat, Feb 2018*
+#### *23rd Sat, Feb 2019*
 - [x] React learning with suspence & lazy
 - [x] Design ux blog page
 - [x] read on designing my blog ...
 
-#### *22nd Fri, Feb 2018*
+#### *22nd Fri, Feb 2019*
 - [x] Nothing done
 
-#### *21st Thu, Feb 2018*
+#### *21st Thu, Feb 2019*
 - [x] Work on building a two-factor app
 
-#### *20th Wed, Feb 2018*
+#### *20th Wed, Feb 2019*
 - [x] Nothing done today
 
-#### *19th Tue, Feb 2018*
+#### *19th Tue, Feb 2019*
 - [x] Committed database project with docker to git
 
-#### *18th Mon, Feb 2018*
+#### *18th Mon, Feb 2019*
 - [x] Study on visualization
 
-#### *17th Sun, Feb 2018*
+#### *17th Sun, Feb 2019*
 - [x] Learn how to work with git submodules 
 - [x] Built a database project with docker
 
-#### *16th Sat, Feb 2018*
+#### *16th Sat, Feb 2019*
 - [x] Dashboad designing
 
-#### *15th Fri, Feb 2018*
+#### *15th Fri, Feb 2019*
 - [x] Nothing done
 
-#### *14th Thu, Feb 2018*
+#### *14th Thu, Feb 2019*
 - [x] Nothing done
 
-#### *13th Wed, Feb 2018*
+#### *13th Wed, Feb 2019*
 - [x] Nothing done
 
-#### *12th Tue, Feb 2018*
+#### *12th Tue, Feb 2019*
 - [x] Nothing done
 
-#### *11th Mon, Feb 2018*
+#### *11th Mon, Feb 2019*
 - [x] Nothing done
 
-#### *10th Sun, Feb 2018*
+#### *10th Sun, Feb 2019*
 - [x] Build react app using bootstrap swatch
 
-#### *9th Sat, Feb 2018*
+#### *9th Sat, Feb 2019*
 - [x] Nothing
 
-#### *8th Fri, Feb 2018*
+#### *8th Fri, Feb 2019*
 - [x] Nothing
 
-#### *7th Thu, Feb 2018*
+#### *7th Thu, Feb 2019*
 - [x] Nothing
 
-#### *6th Wed, Feb 2018*
+#### *6th Wed, Feb 2019*
 - [x] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
 - [x] Build react app using bootstrap swatch
 
-#### *5th Tue, Feb 2018*
+#### *5th Tue, Feb 2019*
 - [x] Did nothing ...
 
-#### *4th Mon, Feb 2018*
+#### *4th Mon, Feb 2019*
 - [x] nothing done
 
-#### *3rd Sun, Feb 2018*
+#### *3rd Sun, Feb 2019*
 - [x] working with postgress on aws
 - [x] saw tutorial on next.js
 
-#### *2nd Sat, Feb 2018*
+#### *2nd Sat, Feb 2019*
 - [x] working on project stargate
 
 #### *1st Fri, Feb 2018*
@@ -212,11 +215,11 @@
 #### *4th Thu, Jan 2018*
 - [x] Study javascript
 
-#### *3rd Wed, Jan 2018*
+#### *3rd Wed, Jan 2019*
 - [x] Study javascript
 - [x] Work on docker
 
-#### *1st Tue, Jan 2018*
+#### *1st Tue, Jan 2019*
 - [x] Code refactoring
 - [x] Update readme's all over git hub
 
