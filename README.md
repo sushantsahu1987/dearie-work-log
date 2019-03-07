@@ -14,6 +14,14 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *7th Thu, Mar 2019*
+- [x] Nothing
+
+#### *6th Wed, Mar 2019*
+- [x] Nothing
+
+#### *5th Tue, Mar 2019*
+- [x] Nothing
 
 #### *4th Mon, Mar 2019*
 - [x] Work on portraits for Khushboo
