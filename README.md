@@ -14,8 +14,20 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *10th Sun, Mar 2019*
+- [x] Worked on webapp works.sushantsahu.com
+
+#### *9th Sat, Mar 2019*
+- [x] Worked on deploying test.sushantsahu.com
+- [x] Worked on deploying sushantsahu.com
+- [x] Worked on webapp works.sushantsahu.com
+
+#### *8th Fri, Mar 2019*
+- [x] Worked on serve to run production react apps
+- [x] Worked on Cetbot, digital ocean & dns reconfiguration
+
 #### *7th Thu, Mar 2019*
-- [x] Nothing
+- [x] Learnt stuff on webpack & babel
 
 #### *6th Wed, Mar 2019*
 - [x] Nothing
