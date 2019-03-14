@@ -3,10 +3,6 @@
 #### Backlog
 
 - [ ] Determine javascript value data type sent from server
-- [ ] Contructor Pattern
-- [ ] Module Pattern
-- [ ] Singleton Pattern
-- [ ] Observer Pattern
 - [ ] Work on developing backend for dearie work log
 - [ ] Work on integrating graphql with dearie work log
 - [ ] Study Vue.js
@@ -16,10 +12,13 @@
 
 
 #### *14th Thu, Mar 2019*
-- [x] Worked on building backend for client works.sushantsahu.com
+- [x] Worked on ssl/tls certificates between connections
 
 #### *13th Wed, Mar 2019*
-- [x] Worked on building backend for client works.sushantsahu.com
+- [x] Contructor Pattern
+- [x] Module Pattern
+- [x] Singleton Pattern
+- [x] Observer Pattern
 
 #### *12th Tue, Mar 2019*
 - [x] Worked on building backend for client works.sushantsahu.com
