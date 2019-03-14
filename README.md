@@ -14,6 +14,19 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+
+#### *14th Thu, Mar 2019*
+- [x] Worked on building backend for client works.sushantsahu.com
+
+#### *13th Wed, Mar 2019*
+- [x] Worked on building backend for client works.sushantsahu.com
+
+#### *12th Tue, Mar 2019*
+- [x] Worked on building backend for client works.sushantsahu.com
+
+#### *11th Mon, Mar 2019*
+- [x] Worked on building backend for client works.sushantsahu.com
+
 #### *10th Sun, Mar 2019*
 - [x] Worked on webapp works.sushantsahu.com
 
