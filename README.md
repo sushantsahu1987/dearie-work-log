@@ -12,6 +12,9 @@
 
 
 #### *14th Thu, Mar 2019*
+- [x] Work on mongoose db with ssh connection
+
+#### *14th Thu, Mar 2019*
 - [x] Worked on ssl/tls certificates between connections
 
 #### *13th Wed, Mar 2019*
