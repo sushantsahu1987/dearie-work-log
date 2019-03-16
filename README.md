@@ -11,8 +11,9 @@
 - [ ] Purchase a course on after effects
 
 
-#### *14th Thu, Mar 2019*
+#### *15th Fri, Mar 2019*
 - [x] Work on mongoose db with ssh connection
+- [x] Create a nodejs app in with tunneled mongoose ssh
 
 #### *14th Thu, Mar 2019*
 - [x] Worked on ssl/tls certificates between connections
