@@ -10,6 +10,14 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *17th Mon, Mar 2019*
+- [x] Preparing for interviews
+
+#### *16th Sun, Mar 2019*
+- [x] Studied AWS lambda
+
+#### *16th Sat, Mar 2019*
+- [x] Worked on works.sushantsahu.com
 
 #### *15th Fri, Mar 2019*
 - [x] Work on mongoose db with ssh connection
