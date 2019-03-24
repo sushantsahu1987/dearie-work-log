@@ -10,10 +10,29 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *17th Mon, Mar 2019*
+
+#### *24th Sun, Mar 2019*
+- [x] --- Need to be added ---
+
+#### *23rd Sat, Mar 2019*
+- [x] No work done
+
+#### *22nd Fri, Mar 2019*
+- [x] No work done
+
+#### *21st Thu, Mar 2019*
+- [x] No work done
+
+#### *20th Wed, Mar 2019*
 - [x] Preparing for interviews
 
-#### *16th Sun, Mar 2019*
+#### *19th Tue, Mar 2019*
+- [x] Preparing for interviews
+
+#### *18th Mon, Mar 2019*
+- [x] Preparing for interviews
+
+#### *17th Sun, Mar 2019*
 - [x] Studied AWS lambda
 
 #### *16th Sat, Mar 2019*
