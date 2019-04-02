@@ -10,9 +10,35 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *2nd Tue, Apr 2019*
+- [x] No work done
+
+#### *1st Mon, Apr 2019*
+- [x] No work done
+
+#### *31st Sun, Mar 2019*
+- [x] No work done
+
+#### *30th Sat, Mar 2019*
+- [x] No work done
+
+#### *29th Fri, Mar 2019*
+- [x] No work done
+
+#### *28th Thu, Mar 2019*
+- [x] No work done
+
+#### *27th Wed, Mar 2019*
+- [x] No work done
+
+#### *26th Tue, Mar 2019*
+- [x] No work done
+
+#### *25th Mon, Mar 2019*
+- [x] No work done
 
 #### *24th Sun, Mar 2019*
-- [x] --- Need to be added ---
+- [x] No work done
 
 #### *23rd Sat, Mar 2019*
 - [x] No work done
