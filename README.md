@@ -11,7 +11,7 @@
 - [ ] Purchase a course on after effects
 
 #### *2nd Tue, Apr 2019*
-- [x] No work done
+- [x] Tail wind css demo
 
 #### *1st Mon, Apr 2019*
 - [x] No work done
