@@ -10,8 +10,12 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *3rd Wed, Apr 2019*
+- [x] Build a calendar with react :) 
+
 #### *2nd Tue, Apr 2019*
 - [x] Tail wind css demo
+- [x] Some basics on D3.js
 
 #### *1st Mon, Apr 2019*
 - [x] No work done
