@@ -10,8 +10,12 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
+#### *4th Wed, Apr 2019*
+- [x] What is elastic search
+- [x] What can i use elastic search for
+
 #### *3rd Wed, Apr 2019*
-- [x] Build a calendar with react :) 
+- [x] Nothing done
 
 #### *2nd Tue, Apr 2019*
 - [x] Tail wind css demo
