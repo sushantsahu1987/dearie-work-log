@@ -13,6 +13,7 @@
 #### *4th Wed, Apr 2019*
 - [x] What is elastic search
 - [x] What can i use elastic search for
+- [x] Purchase on course for elastic search
 
 #### *3rd Wed, Apr 2019*
 - [x] Nothing done
