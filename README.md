@@ -10,7 +10,11 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *4th Wed, Apr 2019*
+#### *5th Fri, Apr, 2019&
+- [x] Pick up stuff on scrapping
+- [x] Udemy course on nodejs scraping
+
+#### *4th Thu, Apr 2019*
 - [x] What is elastic search
 - [x] What can i use elastic search for
 - [x] Purchase on course for elastic search
