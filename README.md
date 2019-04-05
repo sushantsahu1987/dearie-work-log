@@ -10,7 +10,7 @@
 - [ ] Natural language processing
 - [ ] Purchase a course on after effects
 
-#### *5th Fri, Apr, 2019&
+#### *5th Fri, Apr, 2019*
 - [x] Pick up stuff on scrapping
 - [x] Udemy course on nodejs scraping
 
