@@ -10,6 +10,9 @@
 
 #### *7th Sun, Apr, 2019*
 - [x] Rethink goals for this quarter
+- [x] Look into Kubernetes
+- [x] Rethink microservice architecture
+- [x] Rethink docker
 
 #### *6th Sat, Apr, 2019*
 - [x] Scrape data using nodejs
