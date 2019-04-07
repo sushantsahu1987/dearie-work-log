@@ -8,10 +8,10 @@
 - [ ] Learn some ethical hacking
 - [ ] Build some charts using D3
 
-#### *7th Fri, Apr, 2019*
+#### *7th Sun, Apr, 2019*
 - [x] Rethink goals for this quarter
 
-#### *6th Fri, Apr, 2019*
+#### *6th Sat, Apr, 2019*
 - [x] Scrape data using nodejs
 
 #### *5th Fri, Apr, 2019*
