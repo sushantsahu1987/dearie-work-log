@@ -2,14 +2,14 @@
 
 #### Backlog
 
-- [ ] Determine javascript value data type sent from server
-- [ ] Work on developing backend for dearie work log
-- [ ] Work on integrating graphql with dearie work log
-- [ ] Study Vue.js
+- [ ] Build an app simillar to Todoist
+- [ ] Build a mobile logging app with Kibana/Elk
 - [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
-- [ ] Natural language processing
-- [ ] Purchase a course on after effects
+- [ ] Learn some ethical hacking
+- [ ] Build some charts using D3
 
+#### *7th Fri, Apr, 2019*
+- [x] Rethink goals for this quarter
 
 #### *6th Fri, Apr, 2019*
 - [x] Scrape data using nodejs
