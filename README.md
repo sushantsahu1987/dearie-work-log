@@ -8,6 +8,12 @@
 - [ ] Learn some ethical hacking
 - [ ] Build some charts using D3
 
+#### *9th Tue, Apr, 2019*
+- [x] Read up on network security
+
+#### *8th Mon, Apr, 2019*
+- [x] Nothing
+
 #### *7th Sun, Apr, 2019*
 - [x] Rethink goals for this quarter
 - [x] Look into Kubernetes
