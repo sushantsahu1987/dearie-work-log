@@ -8,6 +8,55 @@
 - [ ] Learn some ethical hacking
 - [ ] Build some charts using D3
 
+#### *25th Thu, Apr 2019*
+- [x] Python Scrapper
+- [x] Business Stats
+
+#### *24th Wed, Apr 2019*
+- [x] Business Stats
+
+#### *23rd Tue, Apr, 2019*
+- [x] Business Stats
+
+#### *22nd Mon, Apr, 2019*
+- [x] Nothing done
+
+#### *21st Sun, Apr, 2019*
+- [x] Nothing done
+
+#### *20th Sat, Apr, 2019*
+- [x] Nothing done
+
+#### *19th Fri, Apr, 2019*
+- [x] Nothing done
+
+#### *18th Thu, Apr 2019*
+- [x] Nothing done
+
+#### *17th Wed, Apr 2019*
+- [x] Nothing done
+
+#### *16th Tue, Apr, 2019*
+- [x] Nothing done
+
+#### *15th Mon, Apr, 2019*
+- [x] Nothing
+
+#### *14th Sun, Apr, 2019*
+- [x] Nothing done
+
+#### *13th Sat, Apr, 2019*
+- [x] Nothing done
+
+#### *12th Fri, Apr, 2019*
+- [x] Nothing done
+
+#### *11th Thu, Apr 2019*
+- [x] Nothing done
+
+#### *10th Wed, Apr 2019*
+- [x] Nothing done
+
 #### *9th Tue, Apr, 2019*
 - [x] Read up on network security
 
