@@ -6,6 +6,8 @@
 
 #### *1st Mon, May 2023*
 - [x] Continue to learn VIM
+- [x] Create a repo on typescript design patterns
+- [x] Create a repo on functional typescript programming (fp-ts)
 
 #### *25th Thu, Apr 2019*
 - [x] Python Scrapper
