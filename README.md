@@ -2,11 +2,10 @@
 
 #### Backlog
 
-- [ ] Build an app simillar to Todoist
-- [ ] Build a mobile logging app with Kibana/Elk
-- [ ] [Expo blog](https://blog.expo.io/host-your-expo-app-anywhere-dedf9724de7) Host your expo apps from git pages
-- [ ] Learn some ethical hacking
-- [ ] Build some charts using D3
+- [ ] Waiting for data from Panache Academy
+
+#### *1st Mon, May 2023*
+- [x] Continue to learn VIM
 
 #### *25th Thu, Apr 2019*
 - [x] Python Scrapper
