@@ -9,6 +9,7 @@
 - [x] Install Neovim configurations 
 - [x] Practice text objects & visual mode
 - [x] Write a journal about it 
+- [x] Learn prisma 
 
 #### *3rd Wed, May 2023*
 - [x] Take lisa to hospital in the morning 
