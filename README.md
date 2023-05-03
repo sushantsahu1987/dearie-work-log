@@ -4,6 +4,10 @@
 
 - [ ] Waiting for data from Panache Academy
 
+#### *3rd Wed, May 2023*
+- [x] Take lisa to hospital in the morning 
+- [x] Take lisa to hospital in the evening 
+
 #### *1st Mon, May 2023*
 - [x] Continue to learn VIM
 - [x] Create a repo on typescript design patterns
