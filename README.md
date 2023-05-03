@@ -7,6 +7,8 @@
 #### *3rd Wed, May 2023*
 - [x] Take lisa to hospital in the morning 
 - [x] Take lisa to hospital in the evening 
+- [x] Practice in difference & lack of compassion for humans 
+
 
 #### *1st Mon, May 2023*
 - [x] Continue to learn VIM
