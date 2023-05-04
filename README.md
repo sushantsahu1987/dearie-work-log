@@ -5,11 +5,15 @@
 - [ ] Waiting for data from Panache Academy
 
 #### *4th Thu, May 2023*
-- [x] Delete Astrovim 
-- [x] Install Neovim configurations 
-- [x] Practice text objects & visual mode
-- [x] Write a journal about it 
-- [x] Learn prisma 
+- [ ] Delete Astrovim 
+- [ ] Install Neovim configurations 
+- [ ] Practice text objects & visual mode
+- [ ] Write a journal about it 
+- [ ] Learn prisma 
+- [x] Take lisa to hospital 
+- [x] Practice memento mori 
+- [ ] Practice in difference & lack of compassion for humans 
+
 
 #### *3rd Wed, May 2023*
 - [x] Take lisa to hospital in the morning 
