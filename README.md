@@ -10,15 +10,15 @@
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
-- [x] Take lisa to hospital 
-- [x] Practice in difference & lack of compassion for humans
+- [ ] Practice in difference & lack of compassion for humans
 - [ ] Write about planned adventure trip to iceland
+- [ ] Web checkin for cruise
 
 #### *5th Fri, May 2023*
 - [x] Buy Sucraphalte & Empty Syringe 
 - [x] Print out vouchers, flight, hotel & visa 
 - [ ] Web checkin for cruise
-- [ ] Book off cruise excursions 
+- [x] Book off cruise excursions 
 - [ ] Delete Astrovim 
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
