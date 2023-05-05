@@ -16,6 +16,7 @@
 - [ ] Learn prisma
 - [x] Take lisa to hospital 
 - [ ] Practice in difference & lack of compassion for humans
+- [ ] Write about planned adventure trip to iceland
 
 #### *4th Thu, May 2023*
 - [ ] Delete Astrovim 
