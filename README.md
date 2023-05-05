@@ -4,7 +4,7 @@
 
 - [ ] Waiting for data from Panache Academy
 
-#### *6th Fri, May 2023*
+#### *6th Sat, May 2023*
 - [ ] Delete Astrovim 
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
@@ -16,7 +16,7 @@
 
 #### *5th Fri, May 2023*
 - [x] Buy Sucraphalte & Empty Syringe 
-- [ ] Print out vouchers, flight, hotel & visa 
+- [x] Print out vouchers, flight, hotel & visa 
 - [ ] Web checkin for cruise
 - [ ] Book off cruise excursions 
 - [ ] Delete Astrovim 
