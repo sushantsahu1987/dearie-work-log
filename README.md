@@ -14,6 +14,7 @@
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
+- [x] Take lisa to hospital 
 
 #### *4th Thu, May 2023*
 - [ ] Delete Astrovim 
