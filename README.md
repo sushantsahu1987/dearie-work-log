@@ -15,6 +15,7 @@
 - [ ] Write a journal about it 
 - [ ] Learn prisma
 - [x] Take lisa to hospital 
+- [ ] Practice in difference & lack of compassion for humans
 
 #### *4th Thu, May 2023*
 - [ ] Delete Astrovim 
