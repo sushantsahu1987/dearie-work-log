@@ -4,8 +4,18 @@
 
 - [ ] Waiting for data from Panache Academy
 
+#### *6th Fri, May 2023*
+- [ ] Delete Astrovim 
+- [ ] Install Neovim configurations 
+- [ ] Practice text objects & visual mode
+- [ ] Write a journal about it 
+- [ ] Learn prisma
+- [x] Take lisa to hospital 
+- [x] Practice in difference & lack of compassion for humans
+- [ ] Write about planned adventure trip to iceland
+
 #### *5th Fri, May 2023*
-- [ ] Buy Sucraphalte & Empty Syringe 
+- [x] Buy Sucraphalte & Empty Syringe 
 - [ ] Print out vouchers, flight, hotel & visa 
 - [ ] Web checkin for cruise
 - [ ] Book off cruise excursions 
@@ -15,7 +25,7 @@
 - [ ] Write a journal about it 
 - [ ] Learn prisma
 - [x] Take lisa to hospital 
-- [ ] Practice in difference & lack of compassion for humans
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Write about planned adventure trip to iceland
 
 #### *4th Thu, May 2023*
