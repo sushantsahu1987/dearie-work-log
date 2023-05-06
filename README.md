@@ -13,6 +13,7 @@
 - [ ] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Demo on Qwik
+- [ ] Explore yarn workspaces
 
 #### *6th Sat, May 2023*
 - [ ] Delete Astrovim 
