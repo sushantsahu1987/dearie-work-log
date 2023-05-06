@@ -14,6 +14,7 @@
 - [ ] Work on Next.js 13.4.1
 - [ ] Demo on Qwik
 - [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Github actions & Digital Ocean
 
 #### *6th Sat, May 2023*
 - [ ] Delete Astrovim 
