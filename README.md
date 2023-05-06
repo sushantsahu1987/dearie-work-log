@@ -14,6 +14,7 @@
 - [ ] Write about planned adventure trip to iceland
 - [x] Web checkin for cruise
 - [x] Read about rxjs 
+- [ ] Work on Next.js 13.4.1
 
 #### *5th Fri, May 2023*
 - [x] Buy Sucraphalte & Empty Syringe 
