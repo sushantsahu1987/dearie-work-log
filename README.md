@@ -4,14 +4,24 @@
 
 - [ ] Waiting for data from Panache Academy
 
-#### *6th Sat, May 2023*
+#### *7th Sun, May 2023*
 - [ ] Delete Astrovim 
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
 - [ ] Practice in difference & lack of compassion for humans
-- [ ] Write about planned adventure trip to iceland
+- [ ] Work on Next.js 13.4.1
+- [ ] Demo on Qwik
+
+#### *6th Sat, May 2023*
+- [ ] Delete Astrovim 
+- [ ] Install Neovim configurations 
+- [ ] Practice text objects & visual mode
+- [ ] Write a journal about it 
+- [ ] Learn prisma
+- [x] Practice in difference & lack of compassion for humans
+- [x] Plan adventure trip to iceland
 - [x] Web checkin for cruise
 - [x] Read about rxjs 
 - [ ] Work on Next.js 13.4.1
