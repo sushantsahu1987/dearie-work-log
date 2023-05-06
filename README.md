@@ -12,7 +12,8 @@
 - [ ] Learn prisma
 - [ ] Practice in difference & lack of compassion for humans
 - [ ] Write about planned adventure trip to iceland
-- [ ] Web checkin for cruise
+- [x] Web checkin for cruise
+- [x] Read about rxjs 
 
 #### *5th Fri, May 2023*
 - [x] Buy Sucraphalte & Empty Syringe 
