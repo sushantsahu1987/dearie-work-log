@@ -10,11 +10,12 @@
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
-- [ ] Practice in difference & lack of compassion for humans
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Demo on Qwik
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
+- [x] Parse panache academy data 
 
 #### *7th Sun, May 2023*
 - [ ] Delete Astrovim 
