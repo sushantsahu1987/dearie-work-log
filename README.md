@@ -16,6 +16,9 @@
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
 - [ ] Parse panache academy data 
+- [x] Purchase excusions on cruise
+- [x] Purchase go pro & accessories 
+- [ ] Purchase go pro guide
 
 #### *8th Mon, May 2023*
 - [ ] Delete Astrovim 
