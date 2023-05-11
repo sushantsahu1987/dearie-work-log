@@ -4,13 +4,27 @@
 
 - [ ] Waiting for data from Panache Academy
 
+#### *11th Thu, May 2023*
+- [ ] Delete Astrovim 
+- [ ] Install Neovim configurations 
+- [ ] Practice text objects & visual mode
+- [ ] Write a journal about it 
+- [ ] Learn prisma
+- [x] Practice in difference & lack of compassion for humans
+- [ ] Work on Next.js 13.4.1
+- [ ] Demo on Qwik
+- [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Github actions & Digital Ocean
+- [ ] Parse panache academy data 
+- [ ] Purchase go pro guide
+
 #### *10th Wed, May 2023*
 - [ ] Delete Astrovim 
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
-- [ ] Practice in difference & lack of compassion for humans
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Demo on Qwik
 - [ ] Explore nx workspace (https://nx.dev/)
