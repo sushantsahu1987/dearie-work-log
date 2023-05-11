@@ -17,6 +17,7 @@
 - [ ] Github actions & Digital Ocean
 - [ ] Parse panache academy data 
 - [ ] Purchase go pro guide
+- [ ] Research trip to Vietnam 
 
 #### *10th Wed, May 2023*
 - [ ] Delete Astrovim 
