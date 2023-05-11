@@ -16,7 +16,7 @@
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
 - [ ] Parse panache academy data 
-- [ ] Purchase go pro guide
+- [x] Purchase go pro guide
 - [x] Research trip to Vietnam 
 
 #### *10th Wed, May 2023*
