@@ -12,7 +12,6 @@
 - [ ] Learn prisma
 - [ ] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
-- [ ] Demo on Qwik
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
 - [ ] Parse panache academy data 
