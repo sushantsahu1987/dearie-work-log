@@ -27,6 +27,8 @@
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
 - [x] Take resume_db backup 
+- [x] Write commands on mongodb backup & restore
+- [ ] Write api-resume.sushantsahu.in
 
 #### *11th Thu, May 2023*
 - [ ] Delete Astrovim 
