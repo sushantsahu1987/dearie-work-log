@@ -7,6 +7,7 @@
 - [ ] Setup Panache Academy Accounts
 
 #### *13th Sat, May 2023*
+- [ ] Add money to forex card
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
