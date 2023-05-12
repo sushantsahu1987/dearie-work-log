@@ -5,12 +5,12 @@
 - [ ] Waiting for data from Panache Academy
 
 #### *12th Fri, May 2023*
-- [ ] Delete Astrovim 
+- [x] Delete Astrovim 
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
 - [ ] Learn prisma
-- [ ] Practice in difference & lack of compassion for humans
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
