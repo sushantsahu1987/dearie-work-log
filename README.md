@@ -15,6 +15,8 @@
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
+- [ ] Update all sushantsahu.in projects to next 13.4.2
+- [ ] Refactor sushant sahu resume api
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
