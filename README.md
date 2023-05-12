@@ -6,6 +6,16 @@
 - [ ] Parse panache academy data 
 - [ ] Setup Panache Academy Accounts
 
+#### *13th Sat, May 2023*
+- [ ] Install Neovim configurations 
+- [ ] Practice text objects & visual mode
+- [ ] Write a journal about it 
+- [ ] Learn prisma
+- [ ] Practice in difference & lack of compassion for humans
+- [ ] Work on Next.js 13.4.1
+- [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Github actions & Digital Ocean
+
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
 - [ ] Install Neovim configurations 
@@ -16,7 +26,7 @@
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
-- [ ] Take resume_db backup 
+- [x] Take resume_db backup 
 
 #### *11th Thu, May 2023*
 - [ ] Delete Astrovim 
