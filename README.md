@@ -3,6 +3,8 @@
 #### Backlog
 
 - [ ] Waiting for data from Panache Academy
+- [ ] Parse panache academy data 
+- [ ] Setup Panache Academy Accounts
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
@@ -14,8 +16,7 @@
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
-- [ ] Parse panache academy data 
-- [ ] Setup Panache Academy Accounts
+- [ ] Take resume_db backup 
 
 #### *11th Thu, May 2023*
 - [ ] Delete Astrovim 
