@@ -15,6 +15,7 @@
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
 - [ ] Remove trpc and move to nx monorepo
+- [ ] Setup dark mode in pc 
 
 #### *13th Sat, May 2023*
 - [x] Add money to forex card
