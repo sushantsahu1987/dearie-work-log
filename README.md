@@ -11,13 +11,13 @@
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about it 
-- [ ] Learn prisma
-- [ ] Practice in difference & lack of compassion for humans
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Github actions & Digital Ocean
 - [ ] Update all sushantsahu.in projects to next 13.4.2
 - [ ] Refactor sushant sahu resume api
+- [ ] Explore mongo migrate 
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
