@@ -9,7 +9,7 @@
 
 #### *13th Sat, May 2023*
 - [x] Add money to forex card
-- [ ] Activate international roaming
+- [x] Activate international roaming
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about nvim
