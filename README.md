@@ -6,7 +6,7 @@
 - [ ] Parse panache academy data 
 - [ ] Github actions & Digital Ocean
 
-#### *13th Sat, May 2023*
+#### *14th Sun, May 2023*
 - [ ] Install Helix editor 
 - [ ] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
