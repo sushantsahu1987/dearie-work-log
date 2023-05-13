@@ -20,7 +20,7 @@
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
 - [x] Enable credit card to work in singapore
-- [x] Buy panacheacademy.space, digitalocean server & get gmail email
+- [ ] Buy panacheacademy.space, digitalocean server & get gmail email
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
