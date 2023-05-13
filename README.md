@@ -14,6 +14,7 @@
 - [ ] Update all sushantsahu.in projects to next 13.4.2
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
+- [ ] Remove trpc and move to nx monorepo
 
 #### *13th Sat, May 2023*
 - [x] Add money to forex card
