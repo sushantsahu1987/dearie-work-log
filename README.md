@@ -7,6 +7,15 @@
 - [ ] Github actions & Digital Ocean
 
 #### *13th Sat, May 2023*
+- [ ] Install Helix editor 
+- [ ] Practice in difference & lack of compassion for humans
+- [ ] Work on Next.js 13.4.1
+- [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Update all sushantsahu.in projects to next 13.4.2
+- [ ] Refactor sushant sahu resume api
+- [ ] Explore mongo migrate 
+
+#### *13th Sat, May 2023*
 - [x] Add money to forex card
 - [x] Activate international roaming
 - [ ] Install Neovim configurations 
