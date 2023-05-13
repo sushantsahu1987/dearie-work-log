@@ -8,7 +8,7 @@
 - [ ] Github actions & Digital Ocean
 
 #### *13th Sat, May 2023*
-- [ ] Add money to forex card
+- [x] Add money to forex card
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
 - [ ] Write a journal about nvim
@@ -18,7 +18,7 @@
 - [ ] Update all sushantsahu.in projects to next 13.4.2
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
-- [ ] Enable credit card to work in singapore
+- [x] Enable credit card to work in singapore
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
