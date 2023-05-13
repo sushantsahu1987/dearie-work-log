@@ -10,7 +10,7 @@
 - [ ] Add money to forex card
 - [ ] Install Neovim configurations 
 - [ ] Practice text objects & visual mode
-- [ ] Write a journal about it 
+- [ ] Write a journal about nvim
 - [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
