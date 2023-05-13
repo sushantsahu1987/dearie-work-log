@@ -18,6 +18,7 @@
 - [ ] Update all sushantsahu.in projects to next 13.4.2
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
+- [ ] Enable credit card to work in singapore
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
