@@ -4,7 +4,6 @@
 
 - [ ] Waiting for data from Panache Academy
 - [ ] Parse panache academy data 
-- [ ] Setup Panache Academy Accounts
 - [ ] Github actions & Digital Ocean
 
 #### *13th Sat, May 2023*
@@ -20,7 +19,7 @@
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
 - [x] Enable credit card to work in singapore
-- [ ] Buy panacheacademy.space, digitalocean server & get gmail email
+- [x] Buy panacheacademy.space, digitalocean server & get gmail email
 
 #### *12th Fri, May 2023*
 - [x] Delete Astrovim 
