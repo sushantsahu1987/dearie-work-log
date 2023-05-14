@@ -7,7 +7,7 @@
 - [ ] Github actions & Digital Ocean
 
 #### *14th Sun, May 2023*
-- [ ] Install Helix editor 
+- [x] Install Helix editor 
 - [ ] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
@@ -15,7 +15,7 @@
 - [ ] Refactor sushant sahu resume api
 - [ ] Explore mongo migrate 
 - [ ] Remove trpc and move to nx monorepo
-- [ ] Setup dark mode in pc 
+- [x] Setup dark mode in pc 
 
 #### *13th Sat, May 2023*
 - [x] Add money to forex card
