@@ -17,6 +17,7 @@
 - [ ] Remove trpc and move to nx monorepo
 - [x] Setup dark mode in pc 
 - [x] Create droplet & database server
+- [ ] Do go pro settings mentioned in the book 
 
 #### *13th Sat, May 2023*
 - [x] Add money to forex card
