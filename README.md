@@ -7,8 +7,18 @@
 - [ ] Github actions & Digital Ocean
 
 #### *14th Sun, May 2023*
-- [x] Install Helix editor 
 - [ ] Practice in difference & lack of compassion for humans
+- [ ] Work on Next.js 13.4.1
+- [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Update all sushantsahu.in projects to next 13.4.2
+- [ ] Refactor sushant sahu resume api
+- [ ] Explore mongo migrate 
+- [ ] Remove trpc and move to nx monorepo
+- [ ] Do go pro settings mentioned in the book 
+
+#### *14th Sun, May 2023*
+- [x] Install Helix editor 
+- [x] Practice in difference & lack of compassion for humans
 - [ ] Work on Next.js 13.4.1
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Update all sushantsahu.in projects to next 13.4.2
