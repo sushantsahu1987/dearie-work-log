@@ -15,6 +15,7 @@
 - [ ] Explore mongo migrate 
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Do go pro settings mentioned in the book 
+- [ ] Learn zod 
 - [x] Organise passport 
 
 #### *15th Mon, May 2023*
