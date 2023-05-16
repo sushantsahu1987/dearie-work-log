@@ -15,7 +15,7 @@
 - [ ] Explore mongo migrate 
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Do go pro settings mentioned in the book 
-- [ ] Organise passport 
+- [x] Organise passport 
 
 #### *15th Mon, May 2023*
 - [x] Practice in difference & lack of compassion for humans
