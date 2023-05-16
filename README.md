@@ -5,6 +5,17 @@
 - [ ] Waiting for data from Panache Academy
 - [ ] Parse panache academy data 
 - [ ] Github actions & Digital Ocean
+- [ ] Practice in difference & lack of compassion for humans
+- [ ] Work on Next.js 13.4.2
+- [ ] Explore nx workspace (https://nx.dev/)
+- [ ] Update all sushantsahu.in projects to next 13.4.2
+- [ ] Refactor sushant sahu resume api
+- [ ] Explore mongo migrate 
+- [ ] Remove trpc and move to nx monorepo
+- [ ] Learn zod 
+
+#### *17th Wed, May 2023*
+- [ ] Purchase go pro subscription 
 
 #### *16th Tue, May 2023*
 - [ ] Practice in difference & lack of compassion for humans
