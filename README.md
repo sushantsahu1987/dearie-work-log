@@ -16,10 +16,10 @@
 
 #### *17th Wed, May 2023*
 - [ ] Purchase go pro subscription 
-- [x] Practice in difference & lack of compassion for humans
+- [ ] Memento mori
 
 #### *16th Tue, May 2023*
-- [x] Practice in difference & lack of compassion for humans
+- [x] Memento mori
 - [ ] Work on Next.js 13.4.2
 - [ ] Explore nx workspace (https://nx.dev/)
 - [ ] Update all sushantsahu.in projects to next 13.4.2
