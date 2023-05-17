@@ -14,6 +14,10 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod 
 
+#### *18th Thu, May 2023*
+- [ ] Pay credit card bill 
+- [ ] Memento mori
+
 #### *17th Wed, May 2023*
 - [x] Purchase go pro subscription 
 - [ ] Memento mori
