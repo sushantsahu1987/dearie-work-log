@@ -15,7 +15,7 @@
 - [ ] Learn zod 
 
 #### *17th Wed, May 2023*
-- [ ] Purchase go pro subscription 
+- [x] Purchase go pro subscription 
 - [ ] Memento mori
 - [x] Finish office work
 - [x] Decide on utilities for gopro 
