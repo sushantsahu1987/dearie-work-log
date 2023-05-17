@@ -17,6 +17,7 @@
 #### *17th Wed, May 2023*
 - [ ] Purchase go pro subscription 
 - [ ] Memento mori
+- [ ] Finish office work
 
 #### *16th Tue, May 2023*
 - [x] Memento mori
