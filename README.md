@@ -22,6 +22,7 @@
 - [x] Decide on swimwear 
 - [x] Validate go pro utilities 
 - [x] spot on for dogs 
+- [x] Cut medicines for the trip
 
 #### *16th Tue, May 2023*
 - [x] Memento mori
