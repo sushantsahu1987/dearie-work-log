@@ -20,7 +20,7 @@
 - [x] Finish office work
 - [x] Decide on utilities for gopro 
 - [x] Decide on swimwear 
-- [ ] Cut double sided tape into squares and store in reseable bags 
+- [ ] Cut double sided tape into squares and store in box 
 - [ ] Validate go pro utilities 
 
 #### *16th Tue, May 2023*
