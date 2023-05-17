@@ -21,7 +21,8 @@
 - [x] Decide on utilities for gopro 
 - [x] Decide on swimwear 
 - [ ] Cut double sided tape into squares and store in box 
-- [ ] Validate go pro utilities 
+- [x] Validate go pro utilities 
+- [x] spot on for dogs 
 
 #### *16th Tue, May 2023*
 - [x] Memento mori
