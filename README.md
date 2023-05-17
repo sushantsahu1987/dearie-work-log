@@ -18,6 +18,8 @@
 - [ ] Purchase go pro subscription 
 - [ ] Memento mori
 - [x] Finish office work
+- [x] Decide on utilities for gopro 
+- [x] Decide on swimwear 
 
 #### *16th Tue, May 2023*
 - [x] Memento mori
