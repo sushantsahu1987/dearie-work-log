@@ -19,6 +19,7 @@
 - [ ] Memento mori
 - [x] Book airport taxi
 - [ ] Drop off doggos at dads place
+- [ ] Pack all bathroom essentials 
 
 #### *17th Wed, May 2023*
 - [x] Purchase go pro subscription 
