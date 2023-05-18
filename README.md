@@ -15,7 +15,7 @@
 - [ ] Learn zod 
 
 #### *18th Thu, May 2023*
-- [ ] Pay credit card bill 
+- [x] Pay credit card bill 
 - [ ] Memento mori
 - [ ] Book airport taxi
 
