@@ -18,6 +18,7 @@
 - [x] Pay credit card bill 
 - [ ] Memento mori
 - [ ] Book airport taxi
+- [ ] Drop off doggos at dads place
 
 #### *17th Wed, May 2023*
 - [x] Purchase go pro subscription 
