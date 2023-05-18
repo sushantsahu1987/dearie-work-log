@@ -14,12 +14,22 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod 
 
+#### *19th Fri, May 2023*
+- [ ] Practice dichotomy of control
+- [ ] Memento mori
+- [ ] Put soft tissues in luggage 
+- [ ] Put medication in carry on bag
+- [ ] Put cables, charger n multiport in cable bag put in carry on bag
+- [ ] Divy up forex and change wallet
+- [ ] Board flight to Singapore 
+- [ ] Carry both powerbanks 
+
 #### *18th Thu, May 2023*
 - [x] Pay credit card bill 
-- [ ] Memento mori
+- [x] Memento mori
 - [x] Book airport taxi
 - [x] Drop off doggos at dads place
-- [ ] Pack all bathroom essentials 
+- [x] Pack all bathroom essentials 
 - [x] Fill immigration form
 
 #### *17th Wed, May 2023*
