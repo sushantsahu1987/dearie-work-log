@@ -17,10 +17,11 @@
 #### *18th Thu, May 2023*
 - [ ] Pay credit card bill 
 - [ ] Memento mori
+- [ ] Book airport taxi
 
 #### *17th Wed, May 2023*
 - [x] Purchase go pro subscription 
-- [ ] Memento mori
+- [x] Memento mori
 - [x] Finish office work
 - [x] Decide on utilities for gopro 
 - [x] Decide on swimwear 
