@@ -18,8 +18,9 @@
 - [x] Pay credit card bill 
 - [ ] Memento mori
 - [x] Book airport taxi
-- [ ] Drop off doggos at dads place
+- [x] Drop off doggos at dads place
 - [ ] Pack all bathroom essentials 
+- [x] Fill immigration form
 
 #### *17th Wed, May 2023*
 - [x] Purchase go pro subscription 
