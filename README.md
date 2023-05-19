@@ -17,6 +17,7 @@
 #### *19th Fri, May 2023*
 - [ ] Practice dichotomy of control
 - [ ] Memento mori
+- [ ] I want to lose 10kgs by exercising/walking/active 
 - [x] Put medication in carry on bag
 - [ ] Put cables, charger n multiport in cable bag put in carry on bag
 - [x] Divy up forex and change wallet
