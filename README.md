@@ -21,7 +21,7 @@
 - [x] Put medication in carry on bag
 - [x] Put cables, charger n multiport in cable bag put in carry on bag
 - [x] Divy up forex and change wallet
-- [ ] Board flight to Singapore 
+- [x] Board flight to Singapore 
 - [x] Put powerbank in carry on bag 
 
 #### *18th Thu, May 2023*
