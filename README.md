@@ -15,11 +15,11 @@
 - [ ] Learn zod 
 
 #### *19th Fri, May 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
-- [ ] I want to lose 10kgs by exercising/walking/active 
+- [x] Practice dichotomy of control
+- [x] Memento mori
+- [x] I want to lose 10kgs by exercising/walking/active 
 - [x] Put medication in carry on bag
-- [ ] Put cables, charger n multiport in cable bag put in carry on bag
+- [x] Put cables, charger n multiport in cable bag put in carry on bag
 - [x] Divy up forex and change wallet
 - [ ] Board flight to Singapore 
 - [x] Put powerbank in carry on bag 
