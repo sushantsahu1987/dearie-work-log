@@ -17,12 +17,11 @@
 #### *19th Fri, May 2023*
 - [ ] Practice dichotomy of control
 - [ ] Memento mori
-- [ ] Put soft tissues in luggage 
 - [x] Put medication in carry on bag
 - [ ] Put cables, charger n multiport in cable bag put in carry on bag
 - [x] Divy up forex and change wallet
 - [ ] Board flight to Singapore 
-- [ ] Put powerbank in carry on bag 
+- [x] Put powerbank in carry on bag 
 
 #### *18th Thu, May 2023*
 - [x] Pay credit card bill 
