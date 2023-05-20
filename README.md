@@ -14,11 +14,11 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod 
 
-#### *19th Fri, May 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
-- [ ] I want to lose 10kgs by exercising/walking/active 
-- [ ] Go to gardens by the bay
+#### *20th Sat, May 2023*
+- [x] Practice dichotomy of control
+- [x] Memento mori
+- [x] I want to lose 10kgs by exercising/walking/active 
+- [x] Go to gardens by the bay
 
 #### *19th Fri, May 2023*
 - [x] Practice dichotomy of control
