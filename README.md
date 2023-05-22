@@ -15,10 +15,10 @@
 - [ ] Learn zod 
 
 #### *21st Sun, May 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
-- [ ] I want to lose 10kgs by exercising/walking/active 
-- [ ] Going to marina bay n sentosa 
+- [x] Practice dichotomy of control
+- [x] Memento mori
+- [x] I want to lose 10kgs by exercising/walking/active 
+- [x] Going to marina bay n sentosa 
 
 #### *20th Sat, May 2023*
 - [x] Practice dichotomy of control
