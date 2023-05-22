@@ -18,6 +18,13 @@
 - [x] Practice dichotomy of control
 - [x] Memento mori
 - [x] I want to lose 10kgs by exercising/walking/active 
+- [x] Depart for malaysia by cruise
+- [x] Go explore china town  
+
+#### *21st Sun, May 2023*
+- [x] Practice dichotomy of control
+- [x] Memento mori
+- [x] I want to lose 10kgs by exercising/walking/active 
 - [x] Going to marina bay n sentosa 
 
 #### *20th Sat, May 2023*
