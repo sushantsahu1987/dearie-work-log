@@ -14,7 +14,14 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod 
 
-#### *21st Sun, May 2023*
+#### *23rd Tue, May 2023*
+- [ ] Practice dichotomy of control
+- [ ] Memento mori
+- [ ] I want to lose 10kgs by exercising/walking/active 
+- [ ] Explore george town by trishaw
+- [ ] Rock climbing, swiming pool & bumper car  
+
+#### *22nd Mon, May 2023*
 - [x] Practice dichotomy of control
 - [x] Memento mori
 - [x] I want to lose 10kgs by exercising/walking/active 
