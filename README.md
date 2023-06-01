@@ -22,6 +22,7 @@
 - [ ] Pickup oreo n lisa 
 - [x] Get back into groove of working
 - [ ] Practice mono repo 
+- [ ] Practice NATS & microservices 
 
 #### *30th Wed, May 2023*
 - [x] Practice dichotomy of control
