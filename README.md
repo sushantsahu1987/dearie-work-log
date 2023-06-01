@@ -30,7 +30,7 @@
 - [x] I want to lose 10kgs by exercising/walking/active 
 - [ ] Start taking hairloss medication
 - [ ] Pickup oreo n lisa 
-- [ ] Get back into groove of working
+- [x] Get back into groove of working
 
 #### *23rd Tue, May 2023*
 - [x] Practice dichotomy of control
