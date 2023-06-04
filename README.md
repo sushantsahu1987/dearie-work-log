@@ -15,20 +15,21 @@
 - [ ] Learn zod 
 
 #### *4th Sun, Jun 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
+- [x] Practice dichotomy of control
+- [x] Memento mori
 - [ ] I want to lose 10kgs by exercising/walking/active 
 - [x] Start taking hairloss medication
 - [x] Get back into groove of working
 - [ ] Practice mono repo 
-- [ ] Practice NATS & microservices 
+- [ ] Practice NATS & microservices
+- [ ] Practice react-native-web
 
 #### *1st Thu, Jun 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
+- [x] Practice dichotomy of control
+- [x] Memento mori
 - [ ] I want to lose 10kgs by exercising/walking/active 
 - [ ] Start taking hairloss medication
-- [ ] Pickup oreo n lisa 
+- [x] Pickup oreo n lisa 
 - [x] Get back into groove of working
 - [ ] Practice mono repo 
 - [ ] Practice NATS & microservices 
