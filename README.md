@@ -14,7 +14,7 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod 
 
-#### *6th Mon, Jun 2023*
+#### *6th Tue, Jun 2023*
 - [ ] Practice dichotomy of control
 - [ ] Memento mori
 - [ ] I want to lose 10kgs by exercising/walking/active 
