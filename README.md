@@ -27,7 +27,7 @@
 #### *13th Tue, Jun 2023*
 - [x] Practice dichotomy of control
 - [x] Memento mori
-- [ ] I want to lose 10kgs by exercising/walking/active 
+- [x] I want to lose 10kgs by exercising/walking/active 
 - [x] Start taking hairloss medication
 - [ ] Practice mono repo 
 - [ ] Practice NATS & microservices
