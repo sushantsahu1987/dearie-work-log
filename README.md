@@ -24,6 +24,7 @@
 - [ ] Practice react-native-web
 - [ ] Start deployment of fee tracker
 - [ ] Practice helix 
+- [ ] Build a secure key application 
 
 #### *28th Wed, Jun 2023*
 - [x] Practice dichotomy of control
