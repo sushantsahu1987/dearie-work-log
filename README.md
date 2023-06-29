@@ -14,6 +14,17 @@
 - [ ] Remove trpc and move to nx monorepo
 - [ ] Learn zod
 
+#### *29th Thu, Jun 2023*
+- [x] Practice dichotomy of control
+- [x] Memento mori
+- [x] I want to lose 10kgs by exercising/walking/active 
+- [x] Start taking hairloss medication
+- [ ] Practice mono repo 
+- [ ] Practice NATS & microservices
+- [ ] Practice react-native-web
+- [ ] Start deployment of fee tracker
+- [ ] Practice helix 
+
 #### *28th Wed, Jun 2023*
 - [x] Practice dichotomy of control
 - [x] Memento mori
