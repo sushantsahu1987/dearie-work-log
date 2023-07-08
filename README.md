@@ -17,6 +17,7 @@
 #### *8th Sat, Jul 2023*
 - [x] Practice dichotomy of control
 - [x] Memento mori
+- [ ] Work on svelt kit
 - [ ] I want to lose 10kgs by exercising/walking/active 
 - [ ] Start taking hairloss medication
 - [ ] Practice mono repo 
