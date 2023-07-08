@@ -15,8 +15,8 @@
 - [ ] Learn zod
 
 #### *8th Sat, Jul 2023*
-- [ ] Practice dichotomy of control
-- [ ] Memento mori
+- [x] Practice dichotomy of control
+- [x] Memento mori
 - [ ] I want to lose 10kgs by exercising/walking/active 
 - [ ] Start taking hairloss medication
 - [ ] Practice mono repo 
